@@ -1,0 +1,30 @@
+[
+  {
+    "slug": "penal_code",
+    "titleJa": "刑法",
+    "titleEn": "Penal Code",
+    "file": "/laws/penal_code.json",
+    "src": "/law/penal_code"
+  },
+  {
+    "slug": "jp_const",
+    "titleJa": "日本国憲法",
+    "titleEn": "The Constitution of Japan",
+    "file": "/laws/jp_const.json",
+    "src": "/law/jp_const"
+  },
+  {
+    "slug": "un_charter",
+    "titleJa": "国際連合憲章",
+    "titleEn": "United Nations Charter",
+    "file": "/laws/un_charter.json",
+    "src": "/law/un_charter"
+  },
+  {
+    "slug": "udhr",
+    "titleJa": "世界人権宣言",
+    "titleEn": "Universal Declaration of Human Rights",
+    "file": "/laws/udhr.json",
+    "src": "/law/udhr"
+  }
+  ]

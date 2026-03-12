@@ -1,0 +1,16 @@
+[
+  {
+    "slug": "hyakunin",
+    "titleJa": "百人一首",
+    "titleEn": "Hyakunin Isshu",
+    "file": "/literature/hyakunin.json",
+    "src": "/literature/hyakunin"
+  },
+  {
+    "slug": "chumon",
+    "titleJa": "注文の多い料理店",
+    "titleEn": "The Restaurant With Many Orders",
+    "file": "/literature/chumon.json",
+    "src": "/literature/chumon"
+  }
+  ]

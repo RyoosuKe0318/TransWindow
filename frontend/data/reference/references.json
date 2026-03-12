@@ -1,0 +1,112 @@
+[
+  {
+    "category": "法律系",
+    "directory": "law",
+    "items": [
+      {
+        "id": "penal_code",
+        "title": "刑法",
+        "titleEn": "Penal Code",
+        "file": "/laws/penal_code.json",
+        "src": "/law/penal_code",
+        "resources": [
+          {
+            "name": "刑法 - 日英対照表（法務省、日本法令外国語訳データベースシステム）",
+            "url": "https://www.japaneselawtranslation.go.jp/ja/laws/view/1960/tb"
+          }
+        ]
+      },
+      {
+        "id": "jp_const",
+        "title": "日本国憲法",
+        "titleEn": "The Constitution of Japan",
+        "file": "/laws/jp_const.json",
+        "src": "/law/jp_const",
+        "resources": [
+          {
+            "name": "日本国憲法 - 日英対照表（法務省、日本法令外国語訳データベースシステム）",
+            "url": "https://www.japaneselawtranslation.go.jp/ja/laws/view/174/tb"
+          }
+        ]
+      },
+      {
+        "id": "un_charter",
+        "title": "国際連合憲章",
+        "titleEn": "United Nations Charter",
+        "file": "/laws/un_charter.json",
+        "src": "/law/un_charter",
+        "resources": [
+          {
+            "name": "国連憲章テキスト（国際連合広報センター）",
+            "url": "https://www.unic.or.jp/info/un/charter/text_japanese/"
+          },
+          {
+            "name": "国連憲章（同志社大学）",
+            "url": "https://www1.doshisha.ac.jp/~karai/intlaw/docs/unch.htm"
+          },
+          {
+            "name": "United Nations Charter (United Nations)",
+            "url": "https://www.un.org/en/about-us/un-charter/full-text"
+          }
+        ]
+      },
+      {
+        "id": "udhr",
+        "title": "世界人権宣言",
+        "titleEn": "Universal Declaration of Human Rights",
+        "file": "/laws/udhr.json",
+        "src": "/law/udhr",
+        "resources": [
+          {
+            "name": "世界人権宣言テキスト（国際連合広報センター）",
+            "url": "https://www.unic.or.jp/activities/humanrights/document/bill_of_rights/universal_declaration/"
+          },
+          {
+            "name": "Universal Declaration of Human Rights（外務省）",
+            "url": "https://www.mofa.go.jp/policy/human/univers_dec.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "文学系",
+    "directory": "literature",
+    "items": [
+      {
+        "id": "hyakunin",
+        "title": "百人一首",
+        "titleEn": "Hyakunin Isshu",
+        "file": "/literature/hyakunin.json",
+        "src": "/literature/hyakunin",
+        "resources": [
+          {
+            "name": "小倉百人一首（Wikipedia）",
+            "url": "https://ja.wikisource.org/wiki/%E5%B0%8F%E5%80%89%E7%99%BE%E4%BA%BA%E4%B8%80%E9%A6%96"
+          },
+          {
+            "name": "Hyaku Nin Isshu in English（Wikipedia）",
+            "url": "https://en.wikisource.org/wiki/Hyaku_Nin_Isshu_in_English"
+          }
+        ]
+      },
+      {
+        "id": "chumon",
+        "title": "注文の多い料理店",
+        "titleEn": "The Restaurant With Many Orders",
+        "file": "/literature/chumon.json",
+        "src": "/literature/chumon",
+        "resources": [
+          {
+            "name": "宮沢賢治 注文の多い料理店（青空文庫）",
+            "url": "https://www.aozora.gr.jp/cards/000081/files/43754_17659.html"
+          },
+          {
+            "name": "Translation:The Restaurant With Many Orders（Wikipedia）",
+            "url": "https://en.wikisource.org/wiki/Translation:The_Restaurant_With_Many_Orders"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1518 @@
+[
+  {
+    "ja": "国際連合憲章",
+    "en": "United Nations Charter"
+  },
+  {
+    "ja": "前文",
+    "en": "Preamble"
+  },
+  {
+    "ja": "われら連合国の人民は、",
+    "en": "WE THE PEOPLES OF THE UNITED NATIONS DETERMINED"
+  },
+  {
+    "ja": "われらの一生のうちに二度まで言語に絶する悲哀を人類に与えた戦争の惨害から将来の世代を救い、",
+    "en": "to save succeeding generations from the scourge of war, which twice in our lifetime has brought untold sorrow to mankind, and"
+  },
+  {
+    "ja": "基本的人権と人間の尊厳及び価値と男女及び大小各国の同権とに関する信念をあらためて確認し、",
+    "en": "to reaffirm faith in fundamental human rights, in the dignity and worth of the human person, in the equal rights of men and women and of nations large and small, and"
+  },
+  {
+    "ja": "正義と条約その他の国際法の源泉から生ずる義務の尊重とを維持することができる条件を確立し、",
+    "en": "to establish conditions under which justice and respect for the obligations arising from treaties and other sources of international law can be maintained, and"
+  },
+  {
+    "ja": "一層大きな自由の中で社会的進歩と生活水準の向上とを促進すること",
+    "en": "to promote social progress and better standards of life in larger freedom,"
+  },
+  {
+    "ja": "並びに、このために、",
+    "en": "AND FOR THESE ENDS"
+  },
+  {
+    "ja": "寛容を実行し、且つ、善良な隣人として互に平和に生活し、",
+    "en": "to practice tolerance and live together in peace with one another as good neighbours, and"
+  },
+  {
+    "ja": "国際の平和及び安全を維持するためにわれらの力を合わせ、",
+    "en": "to unite our strength to maintain international peace and security, and"
+  },
+  {
+    "ja": "共同の利益の場合を除く外は武力を用いないことを原則の受諾と方法の設定によって確保し、",
+    "en": "to ensure, by the acceptance of principles and the institution of methods, that armed force shall not be used, save in the common interest, and"
+  },
+  {
+    "ja": "すべての人民の経済的及び社会的発達を促進するために国際機構を用いることを決意して、",
+    "en": "to employ international machinery for the promotion of the economic and social advancement of all peoples,"
+  },
+  {
+    "ja": "これらの目的を達成するために、われらの努力を結集することに決定した。",
+    "en": "HAVE RESOLVED TO COMBINE OUR EFFORTS TO ACCOMPLISH THESE AIMS."
+  },
+  {
+    "ja": "よって、われらの各自の政府は、サン・フランシスコ市に会合し、全権委任状を示してそれが良好妥当であると認められた代表者を通じて、この国際連合憲章に同意したので、ここに国際連合という国際機構を設ける。",
+    "en": "Accordingly, our respective Governments, through representatives assembled in the city of San Francisco, who have exhibited their full powers found to be in good and due form, have agreed to the present Charter of the United Nations and do hereby establish an international organization to be known as the United Nations."
+  },
+  {
+    "ja": "第1章　目的及び原則",
+    "en": "Chapter I: Purposes and Principles"
+  },
+  {
+    "ja": "第1条",
+    "en": "Article 1"
+  },
+  {
+    "ja": "国際連合の目的は、次のとおりである。",
+    "en": "The Purposes of the United Nations are:"
+  },
+  {
+    "ja": "1. 国際の平和及び安全を維持すること。そのために、平和に対する脅威の防止及び除去と侵略行為その他の平和の破壊の鎮圧とのため有効な集団的措置をとること並びに平和を破壊するに至る虞のある国際的の紛争又は事態の調整又は解決を平和的手段によって且つ正義及び国際法の原則に従って実現すること。",
+    "en": "1. To maintain international peace and security, and to that end: to take effective collective measures for the prevention and removal of threats to the peace, and for the suppression of acts of aggression or other breaches of the peace, and to bring about by peaceful means, and in conformity with the principles of justice and international law, adjustment or settlement of international disputes or situations which might lead to a breach of the peace;"
+  },
+  {
+    "ja": "2. 人民の同権及び自決の原則の尊重に基礎をおく諸国間の友好関係を発展させること並びに世界平和を強化するために他の適当な措置をとること。",
+    "en": "2. To develop friendly relations among nations based on respect for the principle of equal rights and self-determination of peoples, and to take other appropriate measures to strengthen universal peace;"
+  },
+  {
+    "ja": "3. 経済的、社会的、文化的又は人道的性質を有する国際問題を解決することについて、並びに人種、性、言語又は宗教による差別なくすべての者のために人権及び基本的自由を尊重するように助長奨励することについて、国際協力を達成すること。",
+    "en": "3. To achieve international co-operation in solving international problems of an economic, social, cultural, or humanitarian character, and in promoting and encouraging respect for human rights and for fundamental freedoms for all without distinction as to race, sex, language, or religion; and"
+  },
+  {
+    "ja": "4. これらの共通の目的の達成に当って諸国の行動を調和するための中心となること。",
+    "en": "4. To be a centre for harmonizing the actions of nations in the attainment of these common ends."
+  },
+  {
+    "ja": "第2条",
+    "en": "Article 2"
+  },
+  {
+    "ja": "この機構及びその加盟国は、第1条に掲げる目的を達成するに当っては、次の原則に従って行動しなければならない。",
+    "en": "The Organization and its Members, in pursuit of the Purposes stated in Article 1, shall act in accordance with the following Principles."
+  },
+  {
+    "ja": "1. この機構は、そのすべての加盟国の主権平等の原則に基礎をおいている。",
+    "en": "1. The Organization is based on the principle of the sovereign equality of all its Members."
+  },
+  {
+    "ja": "2. すべての加盟国は、加盟国の地位から生ずる権利及び利益を加盟国のすべてに保障するために、この憲章に従って負っている義務を誠実に履行しなければならない。",
+    "en": "2. All Members, in order to ensure to all of them the rights and benefits resulting from membership, shall fulfill in good faith the obligations assumed by them in accordance with the present Charter."
+  },
+  {
+    "ja": "3. すべての加盟国は、その国際紛争を平和的手段によって国際の平和及び安全並びに正義を危くしないように解決しなければならない。",
+    "en": "3. All Members shall settle their international disputes by peaceful means in such a manner that international peace and security, and justice, are not endangered."
+  },
+  {
+    "ja": "4. すべての加盟国は、その国際関係において、武力による威嚇又は武力の行使を、いかなる国の領土保全又は政治的独立に対するものも、また、国際連合の目的と両立しない他のいかなる方法によるものも慎まなければならない。",
+    "en": "4. All Members shall refrain in their international relations from the threat or use of force against the territorial integrity or political independence of any state, or in any other manner inconsistent with the Purposes of the United Nations."
+  },
+  {
+    "ja": "5. すべての加盟国は、国際連合がこの憲章に従ってとるいかなる行動についても国際連合にあらゆる援助を与え、且つ、国際連合の防止行動又は強制行動の対象となっているいかなる国に対しても援助の供与を慎まなければならない。",
+    "en": "5. All Members shall give the United Nations every assistance in any action it takes in accordance with the present Charter, and shall refrain from giving assistance to any state against which the United Nations is taking preventive or enforcement action."
+  },
+  {
+    "ja": "6. この機構は、国際連合加盟国でない国が、国際の平和及び安全の維持に必要な限り、これらの原則に従って行動することを確保しなければならない。",
+    "en": "6. The Organization shall ensure that states which are not Members of the United Nations act in accordance with these Principles so far as may be necessary for the maintenance of international peace and security."
+  },
+  {
+    "ja": "7. この憲章のいかなる規定も、本質上いずれかの国の国内管轄権内にある事項に干渉する権限を国際連合に与えるものではなく、また、その事項をこの憲章に基く解決に付託することを加盟国に要求するものでもない。但し、この原則は、第7章に基く強制措置の適用を妨げるものではない。",
+    "en": "7. Nothing contained in the present Charter shall authorize the United Nations to intervene in matters which are essentially within the domestic jurisdiction of any state or shall require the Members to submit such matters to settlement under the present Charter; but this principle shall not prejudice the application of enforcement measures under Chapter Vll."
+  },
+  {
+    "ja": "第2章　加盟国の地位",
+    "en": "Chapter II: Membership"
+  },
+  {
+    "ja": "第3条",
+    "en": "Article 3"
+  },
+  {
+    "ja": "国際連合の原加盟国とは、サン・フランシスコにおける国際機構に関する連合国会議に参加した国又はさきに1942年1月1日の連合国宣言に署名した国で、この憲章に署名し、且つ、第110条に従ってこれを批准するものをいう。",
+    "en": "The original Members of the United Nations shall be the states which, having participated in the United Nations Conference on International Organization at San Francisco, or having previously signed the Declaration by United Nations of 1 January 1942, sign the present Charter and ratify it in accordance with Article 110."
+  },
+  {
+    "ja": "第4条",
+    "en": "Article 4"
+  },
+  {
+    "ja": "1. 国際連合における加盟国の地位は、この憲章に掲げる義務を受託し、且つ、この機構によってこの義務を履行する能力及び意思があると認められる他のすべての平和愛好国に開放されている。",
+    "en": "1. Membership in the United Nations is open to all other peace-loving states which accept the obligations contained in the present Charter and, in the judgment of the Organization, are able and willing to carry out these obligations."
+  },
+  {
+    "ja": "2. 前記の国が国際連合加盟国となることの承認は、安全保障理事会の勧告に基いて、総会の決定によって行われる。",
+    "en": "2. The admission of any such state to membership in the United Nations will be effected by a decision of the General Assembly upon the recommendation of the Security Council."
+  },
+  {
+    "ja": "第5条",
+    "en": "Article 5"
+  },
+  {
+    "ja": "安全保障理事会の防止行動又は強制行動の対象となった国際連合加盟国に対しては、総会が、安全保障理事会の勧告に基づいて、加盟国としての権利及び特権の行使を停止することができる。これらの権利及び特権の行使は、安全保障理事会が回復することができる。",
+    "en": "A Member of the United Nations against which preventive or enforcement action has been taken by the Security Council may be suspended from the exercise of the rights and privileges of membership by the General Assembly upon the recommendation of the Security Council. The exercise of these rights and privileges may be restored by the Security Council."
+  },
+  {
+    "ja": "第6条",
+    "en": "Article 6"
+  },
+  {
+    "ja": "この憲章に掲げる原則に執ように違反した国際連合加盟国は、総会が、安全保障理事会の勧告に基いて、この機構から除名することができる。",
+    "en": "A Member of the United Nations which has persistently violated the Principles contained in the present Charter may be expelled from the Organization by the General Assembly upon the recommendation of the Security Council."
+  },
+  {
+    "ja": "第3章　機関",
+    "en": "Chapter III: Organs"
+  },
+  {
+    "ja": "第7条",
+    "en": "Article 7"
+  },
+  {
+    "ja": "1. 国際連合の主要機関として、総会、安全保障理事会、経済社会理事会、信託統治理事会、国際司法裁判所及び事務局を設ける。",
+    "en": "1. There are established as principal organs of the United Nations: a General Assembly, a Security Council, an Economic and Social Council, a Trusteeship Council, an International Court of Justice and a Secretariat."
+  },
+  {
+    "ja": "2. 必要と認められる補助機関は、この憲章に従って設けることができる。",
+    "en": "2. Such subsidiary organs as may be found necessary may be established in accordance with the present Charter."
+  },
+  {
+    "ja": "第8条",
+    "en": "Article 8"
+  },
+  {
+    "ja": "国際連合は、その主要機関及び補助機関に男女がいかなる地位にも平等の条件で参加する資格があることについて、いかなる制限も設けてはならない。",
+    "en": "The United Nations shall place no restrictions on the eligibility of men and women to participate in any capacity and under conditions of equality in its principal and subsidiary organs."
+  },
+  {
+    "ja": "第4章　総会",
+    "en": "Chapter IV: The General Assembly"
+  },
+  {
+    "ja": "【構成】",
+    "en": "COMPOSITION"
+  },
+  {
+    "ja": "第9条",
+    "en": "Article 9"
+  },
+  {
+    "ja": "1. 総会は、すべての国際連合加盟国で構成する。",
+    "en": "1. The General Assembly shall consist of all the Members of the United Nations."
+  },
+  {
+    "ja": "2. 各加盟国は総会において5人以下の代表者を有するものとする。",
+    "en": "2. Each Member shall have not more than five representatives in the General Assembly."
+  },
+  {
+    "ja": "【任務及び権限】",
+    "en": "FUNCTIONS AND POWERS"
+  },
+  {
+    "ja": "第10条",
+    "en": "Article 10"
+  },
+  {
+    "ja": "総会は、この憲章の範囲内にある問題若しくは事項又はこの憲章に規定する機関の権限及び任務に関する問題若しくは事項を討議し、並びに、第12条に規定する場合を除く外、このような問題又は事項について国際連合加盟国若しくは安全保障理事会又はこの両者に対して勧告をすることができる。",
+    "en": "The General Assembly may discuss any questions or any matters within the scope of the present Charter or relating to the powers and functions of any organs provided for in the present Charter, and, except as provided in Article 12, may make recommendations to the Members of the United Nations or to the Security Council or to both on any such questions or matters."
+  },
+  {
+    "ja": "第11条",
+    "en": "Article 11"
+  },
+  {
+    "ja": "1. 総会は、国際の平和及び安全の維持についての協力に関する一般原則を、軍備縮小及び軍備規制を律する原則も含めて、審議し、並びにこのような原則について加盟国若しくは安全保障理事会又はこの両者に対して勧告をすることができる。",
+    "en": "1. The General Assembly may consider the general principles of co-operation in the maintenance of international peace and security, including the principles governing disarmament and the regulation of armaments, and may make recommendations with regard to such principles to the Members or to the Security Council or to both."
+  },
+  {
+    "ja": "2. 総会は、国際連合加盟国若しくは安全保障理事会によって、又は第35条2に従い国際連合加盟国でない国によって総会に付託される国際の平和及び安全の維持に関するいかなる問題も討議し、並びに、第12条に規定する場合を除く外、このような問題について、1若しくは2以上の関係国又は安全保障理事会あるいはこの両者に対して勧告をすることができる。このような問題で行動を必要とするものは、討議の前又は後に、総会によって安全保障理事会に付託されなければならない。",
+    "en": "2. The General Assembly may discuss any questions relating to the maintenance of international peace and security brought before it by any Member of the United Nations, or by the Security Council, or by a state which is not a Member of the United Nations in accordance with Article 35, paragraph 2, and, except as provided in Article 12, may make recommendations with regard to any such questions to the state or states concerned or to the Security Council or to both. Any such question on which action is necessary shall be referred to the Security Council by the General Assembly either before or after discussion."
+  },
+  {
+    "ja": "3. 総会は、国際の平和及び安全を危くする虞のある事態について、安全保障理事会の注意を促すことができる。",
+    "en": "3. The General Assembly may call the attention of the Security Council to situations which are likely to endanger international peace and security."
+  },
+  {
+    "ja": "4. 本条に掲げる総会の権限は、第10条の一般的範囲を制限するものではない。",
+    "en": "4. The powers of the General Assembly set forth in this Article shall not limit the general scope of Article 10."
+  },
+  {
+    "ja": "第12条",
+    "en": "Article 12"
+  },
+  {
+    "ja": "1. 安全保障理事会がこの憲章によって与えられた任務をいずれかの紛争又は事態について遂行している間は、総会は、安全保障理事会が要請しない限り、この紛争又は事態について、いかなる勧告もしてはならない。",
+    "en": "1. While the Security Council is exercising in respect of any dispute or situation the functions assigned to it in the present Charter, the General Assembly shall not make any recommendation with regard to that dispute or situation unless the Security Council so requests."
+  },
+  {
+    "ja": "2. 事務総長は、国際の平和及び安全の維持に関する事項で安全保障理事会が取り扱っているものを、その同意を得て、会期ごとに総会に対して通告しなければならない。事務総長は、安全保障理事会がその事項を取り扱うことをやめた場合にも、直ちに、総会又は、総会が開会中でないときは、国際連合加盟国に対して同様に通告しなければならない。",
+    "en": "2. The Secretary-General, with the consent of the Security Council, shall notify the General Assembly at each session of any matters relative to the maintenance of international peace and security which are being dealt with by the Security Council and shall similarly notify the General Assembly, or the Members of the United Nations if the General Assembly is not in session, immediately the Security Council ceases to deal with such matters."
+  },
+  {
+    "ja": "第13条",
+    "en": "Article 13"
+  },
+  {
+    "ja": "1. 総会は、次の目的のために研究を発議し、及び勧告をする。",
+    "en": "1. The General Assembly shall initiate studies and make recommendations for the purpose of:"
+  },
+  {
+    "ja": "1. 政治的分野において国際協力を促進すること並びに国際法の斬新的発達及び法典化を奨励すること。",
+    "en": "1. promoting international co-operation in the political field and encouraging the progressive development of international law and its codification;"
+  },
+  {
+    "ja": "2. 経済的、社会的、文化的、教育的及び保健的分野において国際協力を促進すること並びに人種、性、言語又は宗教による差別なくすべての者のために人権及び基本的自由を実現するように援助すること。",
+    "en": "2. promoting international co-operation in the economic, social, cultural, educational, and health fields, and assisting in the realization of human rights and fundamental freedoms for all without distinction as to race, sex, language, or religion."
+  },
+  {
+    "ja": "2. 前記の1bに掲げる事項に関する総会の他の責任、任務及び権限は、第9章及び第10章に掲げる。",
+    "en": "2. The further responsibilities, functions and powers of the General Assembly with respect to matters mentioned in paragraph 1 (b) above are set forth in Chapters IX and X."
+  },
+  {
+    "ja": "第14条",
+    "en": "Article 14"
+  },
+  {
+    "ja": "第12条の規定を留保して、総会は、起因にかかわりなく、一般的福祉又は諸国間の友好関係を害する虞があると認めるいかなる事態についても、これを平和的に調整するための措置を勧告することができる。この事態には、国際連合の目的及び原則を定めるこの憲章の規定の違反から生ずる事態が含まれる。",
+    "en": "Subject to the provisions of Article 12, the General Assembly may recommend measures for the peaceful adjustment of any situation, regardless of origin, which it deems likely to impair the general welfare or friendly relations among nations, including situations resulting from a violation of the provisions of the present Charter setting forth the Purposes and Principles of the United Nations."
+  },
+  {
+    "ja": "第15条",
+    "en": "Article 15"
+  },
+  {
+    "ja": "1. 総会は、安全保障理事会から年次報告及び特別報告を受け、これを審議する。この報告は、安全保障理事会が国際の平和及び安全を維持するために決定し、又はとった措置の説明を含まなければならない。",
+    "en": "1. The General Assembly shall receive and consider annual and special reports from the Security Council; these reports shall include an account of the measures that the Security Council has decided upon or taken to maintain international peace and security."
+  },
+  {
+    "ja": "2. 総会は、国際連合の他の機関から報告を受け、これを審議する。",
+    "en": "2. The General Assembly shall receive and consider reports from the other organs of the United Nations."
+  },
+  {
+    "ja": "第16条",
+    "en": "Article 16"
+  },
+  {
+    "ja": "総会は、第12章及び第13章に基いて与えられる国際信託統治制度に関する任務を遂行する。この任務には、戦略地区として指定されない地区に関する信託統治協定の承認が含まれる。",
+    "en": "The General Assembly shall perform such functions with respect to the international trusteeship system as are assigned to it under Chapters XII and XIII, including the approval of the trusteeship agreements for areas not designated as strategic."
+  },
+  {
+    "ja": "第17条",
+    "en": "Article 17"
+  },
+  {
+    "ja": "1. 総会は、この機構の予算を審議し、且つ、承認する。",
+    "en": "1. The General Assembly shall consider and approve the budget of the Organization."
+  },
+  {
+    "ja": "2. この機構の経費は、総会によって割り当てられるところに従って、加盟国が負担する。",
+    "en": "2. The expenses of the Organization shall be borne by the Members as apportioned by the General Assembly."
+  },
+  {
+    "ja": "3. 総会は、第57条に掲げる専門機関との財政上及び予算上の取極を審議し、且つ、承認し、並びに、当該専門機関に勧告をする目的で、この専門機関の行政的予算を検査する。",
+    "en": "3. The General Assembly shall consider and approve any financial and budgetary arrangements with specialized agencies referred to in Article 57 and shall examine the administrative budgets of such specialized agencies with a view to making recommendations to the agencies concerned."
+  },
+  {
+    "ja": "【表決】",
+    "en": "VOTING"
+  },
+  {
+    "ja": "第18条",
+    "en": "Article 18"
+  },
+  {
+    "ja": "1. 総会の各構成国は、1個の投票権を有する。",
+    "en": "1. Each member of the General Assembly shall have one vote."
+  },
+  {
+    "ja": "2. 重要問題に関する総会の決定は、出席し且つ投票する構成国の3分の2の多数によって行われる。重要問題には、国際の平和及び安全の維持に関する勧告、安全保障理事会の非常任理事国の選挙、経済社会理事会の理事国の選挙、第86条1cによる信託統治理事会の理事国の選挙、新加盟国の国際連合への加盟の承認、加盟国としての権利及び特権の停止、加盟国の除名、信託統治制度の運用に関する問題並びに予算問題が含まれる。",
+    "en": "2. Decisions of the General Assembly on important questions shall be made by a two-thirds majority of the members present and voting. These questions shall include: recommendations with respect to the maintenance of international peace and security, the election of the non-permanent members of the Security Council, the election of the members of the Economic and Social Council, the election of members of the Trusteeship Council in accordance with paragraph 1 (c) of Article 86, the admission of new Members to the United Nations, the suspension of the rights and privileges of membership, the expulsion of Members, questions relating to the operation of the trusteeship system, and budgetary questions."
+  },
+  {
+    "ja": "3. その他の問題に関する決定は、3分の2の多数によって決定されるべき問題の新たな部類の決定を含めて、出席し且つ投票する構成国の過半数によって行われる。",
+    "en": "3. Decisions on other questions, including the determination of additional categories of questions to be decided by a two-thirds majority, shall be made by a majority of the members present and voting."
+  },
+  {
+    "ja": "第19条",
+    "en": "Article 19"
+  },
+  {
+    "ja": "この機構に対する分担金の支払が延滞している国際連合加盟国は、その延滞金の額がその時までの満2年間にその国から支払われるべきであった分担金の額に等しいか又はこれをこえるときは、総会で投票権を有しない。但し、総会は、支払の不履行がこのような加盟国にとってやむを得ない事情によると認めるときは、その加盟国に投票を許すことができる。",
+    "en": "A Member of the United Nations which is in arrears in the payment of its financial contributions to the Organization shall have no vote in the General Assembly if the amount of its arrears equals or exceeds the amount of the contributions due from it for the preceding two full years. The General Assembly may, nevertheless, permit such a Member to vote if it is satisfied that the failure to pay is due to conditions beyond the control of the Member."
+  },
+  {
+    "ja": "【手続】",
+    "en": "PROCEDURE"
+  },
+  {
+    "ja": "第20条",
+    "en": "Article 20"
+  },
+  {
+    "ja": "総会は、年次通常会期として、また、必要がある場合に特別会期として会合する。特別会期は、安全保障理事会の要請又は国際連合加盟国の過半数の要請があったとき、事務総長が招集する。",
+    "en": "The General Assembly shall meet in regular annual sessions and in such special sessions as occasion may require. Special sessions shall be convoked by the Secretary-General at the request of the Security Council or of a majority of the Members of the United Nations."
+  },
+  {
+    "ja": "第21条",
+    "en": "Article 21"
+  },
+  {
+    "ja": "総会は、その手続規則を採択する。総会は、その議長を会期ごとに選挙する。",
+    "en": "The General Assembly shall adopt its own rules of procedure. It shall elect its President for each session."
+  },
+  {
+    "ja": "第22条",
+    "en": "Article 22"
+  },
+  {
+    "ja": "総会は、その任務の遂行に必要と認める補助機関を設けることができる。",
+    "en": "The General Assembly may establish such subsidiary organs as it deems necessary for the performance of its functions."
+  },
+  {
+    "ja": "第5章　安全保障理事会",
+    "en": "Chapter V: The Security Council"
+  },
+  {
+    "ja": "【構成】",
+    "en": "COMPOSITION"
+  },
+  {
+    "ja": "第23条",
+    "en": "Article 23"
+  },
+  {
+    "ja": "1. 安全保障理事会は、15の国際連合加盟国で構成する。中華民国、フランス、ソヴィエト社会主義共和国連邦、グレート・ブリテン及び北部アイルランド連合王国及びアメリカ合衆国は、安全保障理事会の常任理事国となる。総会は、第一に国際の平和及び安全の維持とこの機構のその他の目的とに対する国際連合加盟国の貢献に、更に衡平な地理的分配に特に妥当な考慮を払って、安全保障理事会の非常任理事国となる他の10の国際連合加盟国を選挙する。",
+    "en": "1. The Security Council shall consist of fifteen Members of the United Nations. The Republic of China, France, the Union of Soviet Socialist Republics, the United Kingdom of Great Britain and Northern Ireland, and the United States of America shall be permanent members of the Security Council. The General Assembly shall elect ten other Members of the United Nations to be non-permanent members of the Security Council, due regard being specially paid, in the first instance to the contribution of Members of the United Nations to the maintenance of international peace and security and to the other purposes of the Organization, and also to equitable geographical distribution."
+  },
+  {
+    "ja": "2. 安全保障理事会の非常任理事国は、2年の任期で選挙される。安全保障理事会の理事国の定数が11から15に増加された後の第1回の非常任理事国の選挙では、追加の4理事国のうち2理事国は、1年の任期で選ばれる。退任理事国は、引き続いて再選される資格はない。",
+    "en": "2. The non-permanent members of the Security Council shall be elected for a term of two years. In the first election of the non-permanent members after the increase of the membership of the Security Council from eleven to fifteen, two of the four additional members shall be chosen for a term of one year. A retiring member shall not be eligible for immediate re-election."
+  },
+  {
+    "ja": "3. 安全保障理事会の各理事国は、1人の代表を有する。",
+    "en": "3. Each member of the Security Council shall have one representative."
+  },
+  {
+    "ja": "【【任務及び権限】",
+    "en": "FUNCTIONS AND POWERS"
+  },
+  {
+    "ja": "第24条",
+    "en": "Article 24"
+  },
+  {
+    "ja": "1. 国際連合の迅速且つ有効な行動を確保するために、国際連合加盟国は、国際の平和及び安全の維持に関する主要な責任を安全保障理事会に負わせるものとし、且つ、安全保障理事会がこの責任に基く義務を果すに当って加盟国に代って行動することに同意する。",
+    "en": "1. In order to ensure prompt and effective action by the United Nations, its Members confer on the Security Council primary responsibility for the maintenance of international peace and security, and agree that in carrying out its duties under this responsibility the Security Council acts on their behalf."
+  },
+  {
+    "ja": "2. 前記の義務を果すに当たっては、安全保障理事会は、国際連合の目的及び原則に従って行動しなければならない。この義務を果すために安全保障理事会に与えられる特定の権限は、第6章、第7章、第8章及び第12章で定める。",
+    "en": "2. In discharging these duties the Security Council shall act in accordance with the Purposes and Principles of the United Nations. The specific powers granted to the Security Council for the discharge of these duties are laid down in Chapters VI, VII, VIII, and XII."
+  },
+  {
+    "ja": "3. 安全保障理事会は、年次報告を、また、必要があるときは特別報告を総会に審議のため提出しなければならない。",
+    "en": "3. The Security Council shall submit annual and, when necessary, special reports to the General Assembly for its consideration."
+  },
+  {
+    "ja": "第25条",
+    "en": "Article 25"
+  },
+  {
+    "ja": "国際連合加盟国は、安全保障理事会の決定をこの憲章に従って受諾し且つ履行することに同意する。",
+    "en": "The Members of the United Nations agree to accept and carry out the decisions of the Security Council in accordance with the present Charter."
+  },
+  {
+    "ja": "第26条",
+    "en": "Article 26"
+  },
+  {
+    "ja": "世界の人的及び経済的資源を軍備のために転用することを最も少くして国際の平和及び安全の確立及び維持を促進する目的で、安全保障理事会は、軍備規制の方式を確立するため国際連合加盟国に提出される計画を、第47条に掲げる軍事参謀委員会の援助を得て、作成する責任を負う。",
+    "en": "In order to promote the establishment and maintenance of international peace and security with the least diversion for armaments of the world's human and economic resources, the Security Council shall be responsible for formulating, with the assistance of the Military Staff Committee referred to in Article 47, plans to be submitted to the Members of the United Nations for the establishment of a system for the regulation of armaments."
+  },
+  {
+    "ja": "【表決】",
+    "en": "VOTING"
+  },
+  {
+    "ja": "第27条",
+    "en": "Article 27"
+  },
+  {
+    "ja": "1. 安全保障理事会の各理事国は、1個の投票権を有する。",
+    "en": "1. Each member of the Security Council shall have one vote."
+  },
+  {
+    "ja": "2. 手続事項に関する安全保障理事会の決定は、9理事国の賛成投票によって行われる。",
+    "en": "2. Decisions of the Security Council on procedural matters shall be made by an affirmative vote of nine members."
+  },
+  {
+    "ja": "3. その他のすべての事項に関する安全保障理事会の決定は、常任理事国の同意投票を含む9理事国の賛成投票によって行われる。但し、第6章及び第52条3に基く決定については、紛争当事国は、投票を棄権しなければならない。",
+    "en": "3. Decisions of the Security Council on all other matters shall be made by an affirmative vote of nine members including the concurring votes of the permanent members; provided that, in decisions under Chapter VI, and under paragraph 3 of Article 52, a party to a dispute shall abstain from voting."
+  },
+  {
+    "ja": "【手続】",
+    "en": "PROCEDURE"
+  },
+  {
+    "ja": "第28条",
+    "en": "Article 28"
+  },
+  {
+    "ja": "1. 安全保障理事会は、継続して任務を行うことができるように組織する。このために、安全保障理事会の各理事国は、この機構の所在地に常に代表者をおかなければならない。",
+    "en": "1. The Security Council shall be so organized as to be able to function continuously. Each member of the Security Council shall for this purpose be represented at all times at the seat of the Organization."
+  },
+  {
+    "ja": "2. 安全保障理事会は、定期会議を開く。この会議においては、各理事国は、希望すれば、閣員又は特に指名する他の代表者によって代表されることができる。",
+    "en": "2. The Security Council shall hold periodic meetings at which each of its members may, if it so desires, be represented by a member of the government or by some other specially designated representative."
+  },
+  {
+    "ja": "3. 安全保障理事会は、その事業を最も容易にすると認めるこの機構の所在地以外の場所で、会議を開くことができる。",
+    "en": "3. The Security Council may hold meetings at such places other than the seat of the Organization as in its judgment will best facilitate its work."
+  },
+  {
+    "ja": "第29条",
+    "en": "Article 29"
+  },
+  {
+    "ja": "安全保障理事会は、その任務の遂行に必要と認める補助機関を設けることができる。",
+    "en": "The Security Council may establish such subsidiary organs as it deems necessary for the performance of its functions."
+  },
+  {
+    "ja": "第30条",
+    "en": "Article 30"
+  },
+  {
+    "ja": "安全保障理事会は、議長を選定する方法を含むその手続規則を採択する。",
+    "en": "The Security Council shall adopt its own rules of procedure, including the method of selecting its President."
+  },
+  {
+    "ja": "第31条",
+    "en": "Article 31"
+  },
+  {
+    "ja": "安全保障理事会の理事国でない国際連合加盟国は、安全保障理事会に付託された問題について、理事会がこの加盟国の利害に特に影響があると認めるときはいつでも、この問題の討議に投票権なしで参加することができる。",
+    "en": "Any Member of the United Nations which is not a member of the Security Council may participate, without vote, in the discussion of any question brought before the Security Council whenever the latter considers that the interests of that Member are specially affected."
+  },
+  {
+    "ja": "第32条",
+    "en": "Article 32"
+  },
+  {
+    "ja": "安全保障理事会の理事国でない国際連合加盟国又は国際連合加盟国でない国は、安全保障理事会の審議中の紛争の当事者であるときは、この紛争に関する討議に投票権なしで参加するように勧誘されなければならない。安全保障理事会は、国際連合加盟国でない国の参加のために公正と認める条件を定める。",
+    "en": "Any Member of the United Nations which is not a member of the Security Council or any state which is not a Member of the United Nations, if it is a party to a dispute under consideration by the Security Council, shall be invited to participate, without vote, in the discussion relating to the dispute. The Security Council shall lay down such conditions as it deems just for the participation of a state which is not a Member of the United Nations."
+  },
+  {
+    "ja": "第6章　紛争の平和的解決",
+    "en": "Chapter VI: Pacific Settlement of Disputes"
+  },
+  {
+    "ja": "第33条",
+    "en": "Article 33"
+  },
+  {
+    "ja": "1. いかなる紛争でもその継続が国際の平和及び安全の維持を危くする虞のあるものについては、その当事者は、まず第一に、交渉、審査、仲介、調停、仲裁裁判、司法的解決、地域的機関又は地域的取極の利用その他当事者が選ぶ平和的手段による解決を求めなければならない。",
+    "en": "1. The parties to any dispute, the continuance of which is likely to endanger the maintenance of international peace and security, shall, first of all, seek a solution by negotiation, enquiry, mediation, conciliation, arbitration, judicial settlement, resort to regional agencies or arrangements, or other peaceful means of their own choice."
+  },
+  {
+    "ja": "2. 安全保障理事会は、必要と認めるときは、当事者に対して、その紛争を前記の手段によって解決するように要請する。",
+    "en": "2. The Security Council shall, when it deems necessary, call upon the parties to settle their dispute by such means."
+  },
+  {
+    "ja": "第34条",
+    "en": "Article 34"
+  },
+  {
+    "ja": "安全保障理事会は、いかなる紛争についても、国際的摩擦に導き又は紛争を発生させる虞のあるいかなる事態についても、その紛争又は事態の継続が国際の平和及び安全の維持を危くする虞があるかどうかを決定するために調査することができる。",
+    "en": "The Security Council may investigate any dispute, or any situation which might lead to international friction or give rise to a dispute, in order to determine whether the continuance of the dispute or situation is likely to endanger the maintenance of international peace and security."
+  },
+  {
+    "ja": "第35条",
+    "en": "Article 35"
+  },
+  {
+    "ja": "1. 国際連合加盟国は、いかなる紛争についても、第34条に掲げる性質のいかなる事態についても、安全保障理事会又は総会の注意を促すことができる。",
+    "en": "1. Any Member of the United Nations may bring any dispute, or any situation of the nature referred to in Article 34, to the attention of the Security Council or of the General Assembly."
+  },
+  {
+    "ja": "2. 国際連合加盟国でない国は、自国が当事者であるいかなる紛争についても、この憲章に定める平和的解決の義務をこの紛争についてあらかじめ受諾すれば、安全保障理事会又は総会の注意を促すことができる。",
+    "en": "2. A state which is not a Member of the United Nations may bring to the attention of the Security Council or of the General Assembly any dispute to which it is a party if it accepts in advance, for the purposes of the dispute, the obligations of pacific settlement provided in the present Charter."
+  },
+  {
+    "ja": "3. 本条に基いて注意を促された事項に関する総会の手続は、第11条及び第12条の規定に従うものとする。",
+    "en": "3. The proceedings of the General Assembly in respect of matters brought to its attention under this Article will be subject to the provisions of Articles 11 and 12."
+  },
+  {
+    "ja": "第36条",
+    "en": "Article 36"
+  },
+  {
+    "ja": "1. 安全保障理事会は、第33条に掲げる性質の紛争又は同様の性質の事態のいかなる段階においても、適当な調整の手続又は方法を勧告することができる。",
+    "en": "1. The Security Council may, at any stage of a dispute of the nature referred to in Article 33 or of a situation of like nature, recommend appropriate procedures or methods of adjustment."
+  },
+  {
+    "ja": "2. 安全保障理事会は、当事者が既に採用した紛争解決の手続を考慮に入れなければならない。",
+    "en": "2. The Security Council should take into consideration any procedures for the settlement of the dispute which have already been adopted by the parties."
+  },
+  {
+    "ja": "3. 本条に基いて勧告をするに当っては、安全保障理事会は、法律的紛争が国際司法裁判所規程の規定に従い当事者によって原則として同裁判所に付託されなければならないことも考慮に入れなければならない。",
+    "en": "3. In making recommendations under this Article the Security Council should also take into consideration that legal disputes should as a general rule be referred by the parties to the International Court of Justice in accordance with the provisions of the Statute of the Court."
+  },
+  {
+    "ja": "第37条",
+    "en": "Article 37"
+  },
+  {
+    "ja": "1. 第33条に掲げる性質の紛争の当事者は、同条に示す手段によってこの紛争を解決することができなかったときは、これを安全保障理事会に付託しなければならない。",
+    "en": "1. Should the parties to a dispute of the nature referred to in Article 33 fail to settle it by the means indicated in that Article, they shall refer it to the Security Council."
+  },
+  {
+    "ja": "2. 安全保障理事会は、紛争の継続が国際の平和及び安全の維持を危くする虞が実際にあると認めるときは、第36条に基く行動をとるか、適当と認める解決条件を勧告するかのいずれかを決定しなければならない。",
+    "en": "2. If the Security Council deems that the continuance of the dispute is in fact likely to endanger the maintenance of international peace and security, it shall decide whether to take action under Article 36 or to recommend such terms of settlement as it may consider appropriate."
+  },
+  {
+    "ja": "第38条",
+    "en": "Article 38"
+  },
+  {
+    "ja": "第33条から第37条までの規定にかかわらず、安全保障理事会は、いかなる紛争についても、すべての紛争当事者が要請すれば、その平和的解決のためにこの当事者に対して勧告をすることができる。",
+    "en": "Without prejudice to the provisions of Articles 33 to 37, the Security Council may, if all the parties to any dispute so request, make recommendations to the parties with a view to a pacific settlement of the dispute."
+  },
+  {
+    "ja": "第7章　平和に対する脅威、平和の破壊及び侵略行為に関する行動",
+    "en": "Chapter VII: Action with Respect to Threats to the Peace, Breaches of the Peace, and Acts of Aggression"
+  },
+  {
+    "ja": "第39条",
+    "en": "Article 39"
+  },
+  {
+    "ja": "安全保障理事会は、平和に対する脅威、平和の破壊又は侵略行為の存在を決定し、並びに、国際の平和及び安全を維持し又は回復するために、勧告をし、又は第41条及び第42条に従っていかなる措置をとるかを決定する。",
+    "en": "The Security Council shall determine the existence of any threat to the peace, breach of the peace, or act of aggression and shall make recommendations, or decide what measures shall be taken in accordance with Articles 41 and 42, to maintain or restore international peace and security."
+  },
+  {
+    "ja": "第40条",
+    "en": "Article 40"
+  },
+  {
+    "ja": "事態の悪化を防ぐため、第39条の規定により勧告をし、又は措置を決定する前に、安全保障理事会は、必要又は望ましいと認める暫定措置に従うように関係当事者に要請することができる。この暫定措置は、関係当事者の権利、請求権又は地位を害するものではない。安全保障理事会は、関係当時者がこの暫定措置に従わなかったときは、そのことに妥当な考慮を払わなければならない。",
+    "en": "In order to prevent an aggravation of the situation, the Security Council may, before making the recommendations or deciding upon the measures provided for in Article 39, call upon the parties concerned to comply with such provisional measures as it deems necessary or desirable. Such provisional measures shall be without prejudice to the rights, claims, or position of the parties concerned. The Security Council shall duly take account of failure to comply with such provisional measures."
+  },
+  {
+    "ja": "第41条",
+    "en": "Article 41"
+  },
+  {
+    "ja": "安全保障理事会は、その決定を実施するために、兵力の使用を伴わないいかなる措置を使用すべきかを決定することができ、且つ、この措置を適用するように国際連合加盟国に要請することができる。この措置は、経済関係及び鉄道、航海、航空、郵便、電信、無線通信その他の運輸通信の手段の全部又は一部の中断並びに外交関係の断絶を含むことができる。",
+    "en": "The Security Council may decide what measures not involving the use of armed force are to be employed to give effect to its decisions, and it may call upon the Members of the United Nations to apply such measures. These may include complete or partial interruption of economic relations and of rail, sea, air, postal, telegraphic, radio, and other means of communication, and the severance of diplomatic relations."
+  },
+  {
+    "ja": "第42条",
+    "en": "Article 42"
+  },
+  {
+    "ja": "安全保障理事会は、第41条に定める措置では不充分であろうと認め、又は不充分なことが判明したと認めるときは、国際の平和及び安全の維持又は回復に必要な空軍、海軍又は陸軍の行動をとることができる。この行動は、国際連合加盟国の空軍、海軍又は陸軍による示威、封鎖その他の行動を含むことができる。",
+    "en": "Should the Security Council consider that measures provided for in Article 41 would be inadequate or have proved to be inadequate, it may take such action by air, sea, or land forces as may be necessary to maintain or restore international peace and security. Such action may include demonstrations, blockade, and other operations by air, sea, or land forces of Members of the United Nations."
+  },
+  {
+    "ja": "第43条",
+    "en": "Article 43"
+  },
+  {
+    "ja": "1. 国際の平和及び安全の維持に貢献するため、すべての国際連合加盟国は、安全保障理事会の要請に基き且つ1又は2以上の特別協定に従って、国際の平和及び安全の維持に必要な兵力、援助及び便益を安全保障理事会に利用させることを約束する。この便益には、通過の権利が含まれる。",
+    "en": "1. All Members of the United Nations, in order to contribute to the maintenance of international peace and security, undertake to make available to the Security Council, on its call and in accordance with a special agreement or agreements, armed forces, assistance, and facilities, including rights of passage, necessary for the purpose of maintaining international peace and security."
+  },
+  {
+    "ja": "2. 前記の協定は、兵力の数及び種類、その出動準備程度及び一般的配置並びに提供されるべき便益及び援助の性質を規定する。",
+    "en": "2. Such agreement or agreements shall govern the numbers and types of forces, their degree of readiness and general location, and the nature of the facilities and assistance to be provided."
+  },
+  {
+    "ja": "3. 前記の協定は、安全保障理事会の発議によって、なるべくすみやかに交渉する。この協定は、安全保障理事会と加盟国との間又は安全保障理事会と加盟国群との間に締結され、且つ、署名国によって各自の憲法上の手続に従って批准されなければならない。",
+    "en": "3. The agreement or agreements shall be negotiated as soon as possible on the initiative of the Security Council. They shall be concluded between the Security Council and Members or between the Security Council and groups of Members and shall be subject to ratification by the signatory states in accordance with their respective constitutional processes."
+  },
+  {
+    "ja": "第44条",
+    "en": "Article 44"
+  },
+  {
+    "ja": "安全保障理事会は、兵力を用いることに決定したときは、理事会に代表されていない加盟国に対して第43条に基いて負った義務の履行として兵力を提供するように要請する前に、その加盟国が希望すれば、その加盟国の兵力中の割当部隊の使用に関する安全保障理事会の決定に参加するようにその加盟国を勧誘しなければならない。",
+    "en": "When the Security Council has decided to use force it shall, before calling upon a Member not represented on it to provide armed forces in fulfilment of the obligations assumed under Article 43, invite that Member, if the Member so desires, to participate in the decisions of the Security Council concerning the employment of contingents of that Member's armed forces."
+  },
+  {
+    "ja": "第45条",
+    "en": "Article 45"
+  },
+  {
+    "ja": "国際連合が緊急の軍事措置をとることができるようにするために、加盟国は、合同の国際的強制行動のため国内空軍割当部隊を直ちに利用に供することができるように保持しなければならない。これらの割当部隊の数量及び出動準備程度並びにその合同行動の計画は、第43条に掲げる1又は2以上の特別協定の定める範囲内で、軍事参謀委員会の援助を得て安全保障理事会が決定する。",
+    "en": "In order to enable the United Nations to take urgent military measures, Members shall hold immediately available national air-force contingents for combined international enforcement action. The strength and degree of readiness of these contingents and plans for their combined action shall be determined within the limits laid down in the special agreement or agreements referred to in Article 43, by the Security Council with the assistance of the Military Staff Committee."
+  },
+  {
+    "ja": "第46条",
+    "en": "Article 46"
+  },
+  {
+    "ja": "兵力使用の計画は、軍事参謀委員会の援助を得て安全保障理事会が作成する。",
+    "en": "Plans for the application of armed force shall be made by the Security Council with the assistance of the Military Staff Committee."
+  },
+  {
+    "ja": "第47条",
+    "en": "Article 47"
+  },
+  {
+    "ja": "1. 国際の平和及び安全の維持のための安全保障理事会の軍事的要求、理事会の自由に任された兵力の使用及び指揮、軍備規制並びに可能な軍備縮小に関するすべての問題について理事会に助言及び援助を与えるために、軍事参謀委員会を設ける。",
+    "en": "1. There shall be established a Military Staff Committee to advise and assist the Security Council on all questions relating to the Security Council's military requirements for the maintenance of international peace and security, the employment and command of forces placed at its disposal, the regulation of armaments, and possible disarmament."
+  },
+  {
+    "ja": "2. 軍事参謀委員会は、安全保障理事会の常任理事国の参謀総長又はその代表者で構成する。この委員会に常任委員として代表されていない国際連合加盟国は、委員会の責任の有効な遂行のため委員会の事業へのその国の参加が必要であるときは、委員会によってこれと提携するように勧誘されなければならない。",
+    "en": "2. The Military Staff Committee shall consist of the Chiefs of Staff of the permanent members of the Security Council or their representatives. Any Member of the United Nations not permanently represented on the Committee shall be invited by the Committee to be associated with it when the efficient discharge of the Committee's responsibilities requires the participation of that Member in its work."
+  },
+  {
+    "ja": "3. 軍事参謀委員会は、安全保障理事会の下で、理事会の自由に任された兵力の戦略的指導について責任を負う。この兵力の指揮に関する問題は、後に解決する。",
+    "en": "3. The Military Staff Committee shall be responsible under the Security Council for the strategic direction of any armed forces placed at the disposal of the Security Council. Questions relating to the command of such forces shall be worked out subsequently."
+  },
+  {
+    "ja": "4. 軍事参謀委員会は、安全保障理事会の許可を得て、且つ、適当な地域的機関と協議した後に、地域的小委員会を設けることができる。",
+    "en": "4. The Military Staff Committee, with the authorization of the Security Council and after consultation with appropriate regional agencies, may establish regional sub-committees."
+  },
+  {
+    "ja": "第48条",
+    "en": "Article 48"
+  },
+  {
+    "ja": "1. 国際の平和及び安全の維持のための安全保障理事会の決定を履行するのに必要な行動は、安全保障理事会が定めるところに従って国際連合加盟国の全部又は一部によってとられる。",
+    "en": "1. The action required to carry out the decisions of the Security Council for the maintenance of international peace and security shall be taken by all the Members of the United Nations or by some of them, as the Security Council may determine."
+  },
+  {
+    "ja": "2. 前記の決定は、国際連合加盟国によって直接に、また、国際連合加盟国が参加している適当な国際機関におけるこの加盟国の行動によって履行される。",
+    "en": "2. Such decisions shall be carried out by the Members of the United Nations directly and through their action in the appropriate international agencies of which they are members."
+  },
+  {
+    "ja": "第49条",
+    "en": "Article 49"
+  },
+  {
+    "ja": "国際連合加盟国は、安全保障理事会が決定した措置を履行するに当って、共同して相互援助を与えなければならない。",
+    "en": "The Members of the United Nations shall join in affording mutual assistance in carrying out the measures decided upon by the Security Council."
+  },
+  {
+    "ja": "第50条",
+    "en": "Article 50"
+  },
+  {
+    "ja": "安全保障理事会がある国に対して防止措置又は強制措置をとったときは、他の国でこの措置の履行から生ずる特別の経済問題に自国が当面したと認めるものは、国際連合加盟国であるかどうかを問わず、この問題の解決について安全保障理事会と協議する権利を有する。",
+    "en": "If preventive or enforcement measures against any state are taken by the Security Council, any other state, whether a Member of the United Nations or not, which finds itself confronted with special economic problems arising from the carrying out of those measures shall have the right to consult the Security Council with regard to a solution of those problems."
+  },
+  {
+    "ja": "第51条",
+    "en": "Article 51"
+  },
+  {
+    "ja": "この憲章のいかなる規定も、国際連合加盟国に対して武力攻撃が発生した場合には、安全保障理事会が国際の平和及び安全の維持に必要な措置をとるまでの間、個別的又は集団的自衛の固有の権利を害するものではない。この自衛権の行使に当って加盟国がとった措置は、直ちに安全保障理事会に報告しなければならない。また、この措置は、安全保障理事会が国際の平和及び安全の維持又は回復のために必要と認める行動をいつでもとるこの憲章に基く権能及び責任に対しては、いかなる影響も及ぼすものではない。",
+    "en": "Nothing in the present Charter shall impair the inherent right of individual or collective self-defence if an armed attack occurs against a Member of the United Nations, until the Security Council has taken measures necessary to maintain international peace and security. Measures taken by Members in the exercise of this right of self-defence shall be immediately reported to the Security Council and shall not in any way affect the authority and responsibility of the Security Council under the present Charter to take at any time such action as it deems necessary in order to maintain or restore international peace and security."
+  },
+  {
+    "ja": "第8章　地域的取極",
+    "en": "Chapter VIII: Regional Arrangements"
+  },
+  {
+    "ja": "第52条",
+    "en": "Article 52"
+  },
+  {
+    "ja": "1. この憲章のいかなる規定も、国際の平和及び安全の維持に関する事項で地域的行動に適当なものを処理するための地域的取極又は地域的機関が存在することを妨げるものではない。但し、この取極又は機関及びその行動が国際連合の目的及び原則と一致することを条件とする。",
+    "en": "1. Nothing in the present Charter precludes the existence of regional arrangements or agencies for dealing with such matters relating to the maintenance of international peace and security as are appropriate for regional action provided that such arrangements or agencies and their activities are consistent with the Purposes and Principles of the United Nations."
+  },
+  {
+    "ja": "2. 前記の取極を締結し、又は前記の機関を組織する国際連合加盟国は、地方的紛争を安全保障理事会に付託する前に、この地域的取極又は地域的機関によってこの紛争を平和的に解決するようにあらゆる努力をしなければならない。",
+    "en": "2. The Members of the United Nations entering into such arrangements or constituting such agencies shall make every effort to achieve pacific settlement of local disputes through such regional arrangements or by such regional agencies before referring them to the Security Council."
+  },
+  {
+    "ja": "3. 安全保障理事会は、関係国の発意に基くものであるか安全保障理事会からの付託によるものであるかを問わず、前記の地域的取極又は地域的機関による地方的紛争の平和的解決の発達を奨励しなければならない。",
+    "en": "3. The Security Council shall encourage the development of pacific settlement of local disputes through such regional arrangements or by such regional agencies either on the initiative of the states concerned or by reference from the Security Council."
+  },
+  {
+    "ja": "4. 本条は、第34条及び第35条の適用をなんら害するものではない。",
+    "en": "4. This Article in no way impairs the application of Articles 34 and 35."
+  },
+  {
+    "ja": "第53条",
+    "en": "Article 53"
+  },
+  {
+    "ja": "1. 安全保障理事会は、その権威の下における強制行動のために、適当な場合には、前記の地域的取極又は地域的機関を利用する。但し、いかなる強制行動も、安全保障理事会の許可がなければ、地域的取極に基いて又は地域的機関によってとられてはならない。もっとも、本条2に定める敵国のいずれかに対する措置で、第107条に従って規定されるもの又はこの敵国における侵略政策の再現に備える地域的取極において規定されるものは、関係政府の要請に基いてこの機構がこの敵国による新たな侵略を防止する責任を負うときまで例外とする。",
+    "en": "1. The Security Council shall, where appropriate, utilize such regional arrangements or agencies for enforcement action under its authority. But no enforcement action shall be taken under regional arrangements or by regional agencies without the authorization of the Security Council, with the exception of measures against any enemy state, as defined in paragraph 2 of this Article, provided for pursuant to Article 107 or in regional arrangements directed against renewal of aggressive policy on the part of any such state, until such time as the Organization may, on request of the Governments concerned, be charged with the responsibility for preventing further aggression by such a state."
+  },
+  {
+    "ja": "2. 本条1で用いる敵国という語は、第二次世界戦争中にこの憲章のいずれかの署名国の敵国であった国に適用される。",
+    "en": "2. The term enemy state as used in paragraph 1 of this Article applies to any state which during the Second World War has been an enemy of any signatory of the present Charter."
+  },
+  {
+    "ja": "第54条",
+    "en": "Article 54"
+  },
+  {
+    "ja": "安全保障理事会は、国際の平和及び安全の維持のために地域的取極に基いて又は地域的機関によって開始され又は企図されている活動について、常に充分に通報されていなければならない。",
+    "en": "The Security Council shall at all times be kept fully informed of activities undertaken or in contemplation under regional arrangements or by regional agencies for the maintenance of international peace and security."
+  },
+  {
+    "ja": "第9章　経済的及び社会的国際協力",
+    "en": "Chapter IX: International Economic and Social Cooperation"
+  },
+  {
+    "ja": "第55条",
+    "en": "Article 55"
+  },
+  {
+    "ja": "人民の同権及び自決の原則の尊重に基礎をおく諸国間の平和的且つ友好的関係に必要な安定及び福祉の条件を創造するために、国際連合は、次のことを促進しなければならない。",
+    "en": "With a view to the creation of conditions of stability and well-being which are necessary for peaceful and friendly relations among nations based on respect for the principle of equal rights and self-determination of peoples, the United Nations shall promote:"
+  },
+  {
+    "ja": "1. 一層高い生活水準、完全雇用並びに経済的及び社会的の進歩及び発展の条件",
+    "en": "1. higher standards of living, full employment, and conditions of economic and social progress and development;"
+  },
+  {
+    "ja": "2. 経済的、社会的及び保健的国際問題と関係国際問題の解決並びに文化的及び教育的国際協力",
+    "en": "2. solutions of international economic, social, health, and related problems; and international cultural and educational cooperation; and"
+  },
+  {
+    "ja": "3. 人種、性、言語又は宗教による差別のないすべての者のための人権及び基本的自由の普遍的な尊重及び遵守",
+    "en": "3. universal respect for, and observance of, human rights and fundamental freedoms for all without distinction as to race, sex, language, or religion."
+  },
+  {
+    "ja": "第56条",
+    "en": "Article 56"
+  },
+  {
+    "ja": "すべての加盟国は、第55条に掲げる目的を達成するために、この機構と協力して、共同及び個別の行動をとることを誓約する。",
+    "en": "All Members pledge themselves to take joint and separate action in co-operation with the Organization for the achievement of the purposes set forth in Article 55."
+  },
+  {
+    "ja": "第57条",
+    "en": "Article 57"
+  },
+  {
+    "ja": "1. 政府間の協定によって設けられる各種の専門機関で、経済的、社会的、文化的、教育的及び保健的分野並びに関係分野においてその基本的文書で定めるところにより広い国際的責任を有するものは、第63条の規定に従って国際連合と連携関係をもたされなければならない。",
+    "en": "1. The various specialized agencies, established by intergovernmental agreement and having wide international responsibilities, as defined in their basic instruments, in economic, social, cultural, educational, health, and related fields, shall be brought into relationship with the United Nations in accordance with the provisions of Article 63."
+  },
+  {
+    "ja": "2. こうして国際連合と連携関係をもたされる前記の機関は、以下専門機関という。",
+    "en": "2. Such agencies thus brought into relationship with the United Nations are hereinafter referred to as specialized agencies."
+  },
+  {
+    "ja": "第58条",
+    "en": "Article 58"
+  },
+  {
+    "ja": "この機構は、専門機関の政策及び活動を調整するために勧告をする。",
+    "en": "The Organization shall make recommendations for the co-ordination of the policies and activities of the specialized agencies."
+  },
+  {
+    "ja": "第59条",
+    "en": "Article 59"
+  },
+  {
+    "ja": "この機構は、適当な場合には、第55条に掲げる目的の達成に必要な新たな専門機関を設けるために関係国間の交渉を発議する。",
+    "en": "The Organization shall, where appropriate, initiate negotiations among the states concerned for the creation of any new specialized agencies required for the accomplishment of the purposes set forth in Article 55."
+  },
+  {
+    "ja": "第60条",
+    "en": "Article 60"
+  },
+  {
+    "ja": "この章に掲げるこの機構の任務を果す責任は、総会及び、総会の権威の下に、経済社会理事会に課せられる。理事会は、このために第10章に掲げる権限を有する。",
+    "en": "Responsibility for the discharge of the functions of the Organization set forth in this Chapter shall be vested in the General Assembly and, under the authority of the General Assembly, in the Economic and Social Council, which shall have for this purpose the powers set forth in Chapter X."
+  },
+  {
+    "ja": "第10章　経済社会理事会",
+    "en": "Chapter X: The Economic and Social Council"
+  },
+  {
+    "ja": "【構成】",
+    "en": "COMPOSITION"
+  },
+  {
+    "ja": "第61条",
+    "en": "Article 61"
+  },
+  {
+    "ja": "1. 経済社会理事会は、総会によって選挙される54の国際連合加盟国で構成する。",
+    "en": "1. The Economic and Social Council shall consist of fifty-four Members of the United Nations elected by the General Assembly."
+  },
+  {
+    "ja": "2. 3の規定を留保して、経済社会理事会の18理事国は、3年の任期で毎年選挙される。退任理事国は、引き続いて再選される資格がある。",
+    "en": "2. Subject to the provisions of paragraph 3, eighteen members of the Economic and Social Council shall be elected each year for a term of three years. A retiring member shall be eligible for immediate re-election."
+  },
+  {
+    "ja": "3. 経済社会理事会の理事国の定数が27から54に増加された後の第1回の選挙では、その年の終わりに任期が終了する9理事国に代って選挙される理事国に加えて、更に27理事国が選挙される。このようにして選挙された追加の27理事国のうち、総会の定めるところに従って、9理事国の任期は1年の終りに、他の9理事国の任期は2年の終りに終了する。",
+    "en": "3. At the first election after the increase in the membership of the Economic and Social Council from twenty-seven to fifty-four members, in addition to the members elected in place of the nine members whose term of office expires at the end of that year, twenty-seven additional members shall be elected. Of these twenty-seven additional members, the term of office of nine members so elected shall expire at the end of one year, and of nine other members at the end of two years, in accordance with arrangements made by the General Assembly."
+  },
+  {
+    "ja": "4. 経済社会理事会の各理事国は、1人の代表者を有する。",
+    "en": "4. Each member of the Economic and Social Council shall have one representative."
+  },
+  {
+    "ja": "【任務及び権限】",
+    "en": "FUNCTIONS AND POWERS"
+  },
+  {
+    "ja": "第62条",
+    "en": "Article 62"
+  },
+  {
+    "ja": "1. 経済社会理事会は、経済的、社会的、文化的、教育的及び保健的国際事項並びに関係国際事項に関する研究及び報告を行い、又は発議し、並びにこれらの事項に関して総会、国際連合加盟国及び関係専門機関に勧告をすることができる。",
+    "en": "1. The Economic and Social Council may make or initiate studies and reports with respect to international economic, social, cultural, educational, health, and related matters and may make recommendations with respect to any such matters to the General Assembly to the Members of the United Nations, and to the specialized agencies concerned."
+  },
+  {
+    "ja": "2. 理事会は、すべての者のための人権及び基本的自由の尊重及び遵守を助長するために、勧告をすることができる。",
+    "en": "2. It may make recommendations for the purpose of promoting respect for, and observance of, human rights and fundamental freedoms for all."
+  },
+  {
+    "ja": "3. 理事会は、その権限に属する事項について、総会に提出するための条約案を作成することができる。",
+    "en": "3. It may prepare draft conventions for submission to the General Assembly, with respect to matters falling within its competence."
+  },
+  {
+    "ja": "4. 理事会は、国際連合の定める規則に従って、その権限に属する事項について国際会議を招集することができる。",
+    "en": "4. It may call, in accordance with the rules prescribed by the United Nations, international conferences on matters falling within its competence."
+  },
+  {
+    "ja": "第63条",
+    "en": "Article 63"
+  },
+  {
+    "ja": "1. 経済社会理事会は、第57条に掲げる機関のいずれとの間にも、その機関が国際連合と連携関係をもたされるについての条件を定める協定を締結することができる。この協定は、総会の承認を受けなければならない。",
+    "en": "1. The Economic and Social Council may enter into agreements with any of the agencies referred to in Article 57, defining the terms on which the agency concerned shall be brought into relationship with the United Nations. Such agreements shall be subject to approval by the General Assembly."
+  },
+  {
+    "ja": "2. 理事会は、専門機関との協議及び専門機関に対する勧告並びに総会及び国際連合加盟国に対する勧告によって、専門機関の活動を調整することができる。",
+    "en": "2. It may co-ordinate the activities of the specialized agencies through consultation with and recommendations to such agencies and through recommendations to the General Assembly and to the Members of the United Nations."
+  },
+  {
+    "ja": "第64条",
+    "en": "Article 64"
+  },
+  {
+    "ja": "1. 経済社会理事会は、専門機関から定期報告を受けるために、適当な措置をとることができる。理事会は、理事会の勧告と理事会の権限に属する事項に関する総会の勧告とを実施するためにとられた措置について報告を受けるため、国際連合加盟国及び専門機関と取極を行うことができる。",
+    "en": "1. The Economic and Social Council may take appropriate steps to obtain regular reports from the specialized agencies. It may make arrangements with the Members of the United Nations and with the specialized agencies to obtain reports on the steps taken to give effect to its own recommendations and to recommendations on matters falling within its competence made by the General Assembly."
+  },
+  {
+    "ja": "2. 理事会は、前記の報告に関するその意見を総会に通報することができる。",
+    "en": "2. It may communicate its observations on these reports to the General Assembly."
+  },
+  {
+    "ja": "第65条",
+    "en": "Article 65"
+  },
+  {
+    "ja": "経済社会理事会は、安全保障理事会に情報を提供することができる。経済社会理事会は、また、安全保障理事会の要請があったときは、これを援助しなければならない。",
+    "en": "The Economic and Social Council may furnish information to the Security Council and shall assist the Security Council upon its request."
+  },
+  {
+    "ja": "第66条",
+    "en": "Article 66"
+  },
+  {
+    "ja": "1. 経済社会理事会は、総会の勧告の履行に関して、自己の権限に属する任務を遂行しなければならない。",
+    "en": "1. The Economic and Social Council shall perform such functions as fall within its competence in connection with the carrying out of the recommendations of the General Assembly."
+  },
+  {
+    "ja": "2. 理事会は、国際連合加盟国の要請があったとき、又は専門機関の要請があったときは、総会の承認を得て役務を提供することができる。",
+    "en": "2. It may, with the approval of the General Assembly, perform services at the request of Members of the United Nations and at the request of specialized agencies."
+  },
+  {
+    "ja": "3. 理事会は、この憲章の他の箇所に定められ、又は総会によって自己に与えられるその他の任務を遂行しなければならない。",
+    "en": "3. It shall perform such other functions as are specified elsewhere in the present Charter or as may be assigned to it by the General Assembly."
+  },
+  {
+    "ja": "【表決】",
+    "en": "VOTING"
+  },
+  {
+    "ja": "第67条",
+    "en": "Article 67"
+  },
+  {
+    "ja": "1. 経済社会理事会の各理事国は、1個の投票権を有する。",
+    "en": "1. Each member of the Economic and Social Council shall have one vote."
+  },
+  {
+    "ja": "2. 経済社会理事会の決定は、出席し且つ投票する理事国の過半数によって行われる。",
+    "en": "2. Decisions of the Economic and Social Council shall be made by a majority of the members present and voting."
+  },
+  {
+    "ja": "【手続】",
+    "en": "PROCEDURE"
+  },
+  {
+    "ja": "第68条",
+    "en": "Article 68"
+  },
+  {
+    "ja": "経済社会理事会は、経済的及び社会的分野における委員会、人権の伸張に関する委員会並びに自己の任務の遂行に必要なその他の委員会を設ける。",
+    "en": "The Economic and Social Council shall set up commissions in economic and social fields and for the promotion of human rights, and such other commissions as may be required for the performance of its functions."
+  },
+  {
+    "ja": "第69条",
+    "en": "Article 69"
+  },
+  {
+    "ja": "経済社会理事会は、いずれの国際連合加盟国に対しても、その加盟国に特に関係のある事項についての審議に投票権なしで参加するように勧誘しなければならない。",
+    "en": "The Economic and Social Council shall invite any Member of the United Nations to participate, without vote, in its deliberations on any matter of particular concern to that Member."
+  },
+  {
+    "ja": "第70条",
+    "en": "Article 70"
+  },
+  {
+    "ja": "経済社会理事会は、専門機関の代表者が理事会の審議及び理事会の設ける委員会の審議に投票権なしで参加するための取極並びに理事会の代表者が専門機関の審議に参加するための取極を行うことができる。",
+    "en": "The Economic and Social Council may make arrangements for representatives of the specialized agencies to participate, without vote, in its deliberations and in those of the commissions established by it, and for its representatives to participate in the deliberations of the specialized agencies."
+  },
+  {
+    "ja": "第71条",
+    "en": "Article 71"
+  },
+  {
+    "ja": "経済社会理事会は、その権限内にある事項に関係のある民間団体と協議するために、適当な取極を行うことができる。この取極は、国際団体との間に、また、適当な場合には、関係のある国際連合加盟国と協議した後に国内団体との間に行うことができる。",
+    "en": "The Economic and Social Council may make suitable arrangements for consultation with non-governmental organizations which are concerned with matters within its competence. Such arrangements may be made with international organizations and, where appropriate, with national organizations after consultation with the Member of the United Nations concerned."
+  },
+  {
+    "ja": "第72条",
+    "en": "Article 72"
+  },
+  {
+    "ja": "1. 経済社会理事会は、議長を選定する方法を含むその手続規則を採択する。",
+    "en": "1. The Economic and Social Council shall adopt its own rules of procedure, including the method of selecting its President."
+  },
+  {
+    "ja": "2. 経済社会理事会は、その規則に従って必要があるときに会合する。この規則は、理事国の過半数の要請による会議招集の規定を含まなければならない。",
+    "en": "2. The Economic and Social Council shall meet as required in accordance with its rules, which shall include provision for the convening of meetings on the request of a majority of its members."
+  },
+  {
+    "ja": "第11章　非自治地域に関する宣言",
+    "en": "Chapter XI: Declaration Regarding Non-Self-Governing Territories"
+  },
+  {
+    "ja": "第73条",
+    "en": "Article 73"
+  },
+  {
+    "ja": "人民がまだ完全には自治を行うには至っていない地域の施政を行う責任を有し、又は引き受ける国際連合加盟国は、この地域の住民の利益が至上のものであるという原則を承認し、且つ、この地域の住民の福祉をこの憲章の確立する国際の平和及び安全の制度内で最高度まで増進する義務並びにそのために次のことを行う義務を神聖な信託として受託する。",
+    "en": "Members of the United Nations which have or assume responsibilities for the administration of territories whose peoples have not yet attained a full measure of self-government recognize the principle that the interests of the inhabitants of these territories are paramount, and accept as a sacred trust the obligation to promote to the utmost, within the system of international peace and security established by the present Charter, the well-being of the inhabitants of these territories, and, to this end:"
+  },
+  {
+    "ja": "1. 関係人民の文化を充分に尊重して、この人民の政治的、経済的、社会的及び教育的進歩、公正な待遇並びに虐待からの保護を確保すること。",
+    "en": "1. to ensure, with due respect for the culture of the peoples concerned, their political, economic, social, and educational advancement, their just treatment, and their protection against abuses;"
+  },
+  {
+    "ja": "2. 各地域及びその人民の特殊事情並びに人民の進歩の異なる段階に応じて、自治を発達させ、人民の政治的願望に妥当な考慮を払い、且つ、人民の自由な政治制度の斬新的発達について人民を援助すること。",
+    "en": "2. to develop self-government, to take due account of the political aspirations of the peoples, and to assist them in the progressive development of their free political institutions, according to the particular circumstances of each territory and its peoples and their varying stages of advancement;"
+  },
+  {
+    "ja": "3. 国際の平和及び安全を増進すること。",
+    "en": "3. to further international peace and security;"
+  },
+  {
+    "ja": "4. 本条に掲げる社会的、経済的及び科学的目的を実際に達成するために、建設的な発展措置を促進し、研究を奨励し、且つ、相互に及び適当な場合には専門国際団体と協力すること。",
+    "en": "4. to promote constructive measures of development, to encourage research, and to co-operate with one another and, when and where appropriate, with specialized international bodies with a view to the practical achievement of the social, economic, and scientific purposes set forth in this Article; and"
+  },
+  {
+    "ja": "5. 第12章及び第13章の適用を受ける地域を除く外、前記の加盟国がそれぞれ責任を負う地域における経済的、社会的及び教育的状態に関する専門的性質の統計その他の資料を、安全保障及び憲法上の考慮から必要な制限に従うことを条件として、情報用として事務総長に定期的に送付すること。",
+    "en": "5. to transmit regularly to the Secretary-General for information purposes, subject to such limitation as security and constitutional considerations may require, statistical and other information of a technical nature relating to economic, social, and educational conditions in the territories for which they are respectively responsible other than those territories to which Chapters XII and XIII apply."
+  },
+  {
+    "ja": "第74条",
+    "en": "Article 74"
+  },
+  {
+    "ja": "国際連合加盟国は、また、本章の適用を受ける地域に関するその政策を、その本土に関する政策と同様に、世界の他の地域の利益及び福祉に妥当な考慮を払った上で、社会的、経済的及び商業的事項に関して善隣主義の一般原則に基かせなければならないことに同意する。",
+    "en": "Members of the United Nations also agree that their policy in respect of the territories to which this Chapter applies, no less than in respect of their metropolitan areas, must be based on the general principle of good-neighbourliness, due account being taken of the interests and well-being of the rest of the world, in social, economic, and commercial matters."
+  },
+  {
+    "ja": "第12章　国際信託統治制度",
+    "en": "Chapter XII: International Trusteeship System"
+  },
+  {
+    "ja": "第75条",
+    "en": "Article 75"
+  },
+  {
+    "ja": "国際連合は、その権威の下に、国際信託統治制度を設ける。この制度は、今後の個々の協定によってこの制度の下におかれる地域の施政及び監督を目的とする。この地域は、以下信託統治地域という。",
+    "en": "The United Nations shall establish under its authority an international trusteeship system for the administration and supervision of such territories as may be placed thereunder by subsequent individual agreements. These territories are hereinafter referred to as trust territories."
+  },
+  {
+    "ja": "第76条",
+    "en": "Article 76"
+  },
+  {
+    "ja": "信託統治制度の基本目的は、この憲章の第1条に掲げる国際連合の目的に従って、次のとおりとする。",
+    "en": "The basic objectives of the trusteeship system, in accordance with the Purposes of the United Nations laid down in Article 1 of the present Charter, shall be:"
+  },
+  {
+    "ja": "1. 国際の平和及び安全を増進すること。",
+    "en": "1. to further international peace and security;"
+  },
+  {
+    "ja": "2. 信託統治地域の住民の政治的、経済的、社会的及び教育的進歩を促進すること。各地域及びその人民の特殊事情並びに関係人民が自由に表明する願望に適合するように、且つ、各信託統治協定の条項が規定するところに従って、自治又は独立に向っての住民の漸進的発達を促進すること。",
+    "en": "2. to promote the political, economic, social, and educational advancement of the inhabitants of the trust territories, and their progressive development towards self-government or independence as may be appropriate to the particular circumstances of each territory and its peoples and the freely expressed wishes of the peoples concerned, and as may be provided by the terms of each trusteeship agreement;"
+  },
+  {
+    "ja": "3. 人種、性、言語又は宗教による差別なくすべての者のために人権及び基本的自由を尊重するように奨励し、且つ、世界の人民の相互依存の認識を助長すること。",
+    "en": "3. to encourage respect for human rights and for fundamental freedoms for all without distinction as to race, sex, language, or religion, and to encourage recognition of the interdependence of the peoples of the world; and"
+  },
+  {
+    "ja": "4. 前記の目的の達成を妨げることなく、且つ、第80条の規定を留保して、すべての国際連合加盟国及びその国民のために社会的、経済的及び商業的事項について平等の待遇を確保し、また、その国民のために司法上で平等の待遇を確保すること。",
+    "en": "4. to ensure equal treatment in social, economic, and commercial matters for all Members of the United Nations and their nationals, and also equal treatment for the latter in the administration of justice, without prejudice to the attainment of the foregoing objectives and subject to the provisions of Article 80."
+  },
+  {
+    "ja": "第77条",
+    "en": "Article 77"
+  },
+  {
+    "ja": "1. 信託統治制度は、次の種類の地域で信託統治協定によってこの制度の下におかれるものに適用する。",
+    "en": "1. The trusteeship system shall apply to such territories in the following categories as may be placed thereunder by means of trusteeship agreements:"
+  },
+  {
+    "ja": "1. 現に委任統治の下にある地域",
+    "en": "1. territories now held under mandate;"
+  },
+  {
+    "ja": "2. 第二次世界大戦の結果として敵国から分離される地域",
+    "en": "2. territories which may be detached from enemy states as a result of the Second World War; and"
+  },
+  {
+    "ja": "3. 施政について責任を負う国によって自発的にこの制度の下におかれる地域",
+    "en": "3. territories voluntarily placed under the system by states responsible for their administration."
+  },
+  {
+    "ja": "2. 前記の種類のうちのいずれの地域がいかなる条件で信託統治制度の下におかれるかについては、今後の協定で定める。",
+    "en": "2. It will be a matter for subsequent agreement as to which territories in the foregoing categories will be brought under the trusteeship system and upon what terms."
+  },
+  {
+    "ja": "第78条",
+    "en": "Article 78"
+  },
+  {
+    "ja": "国際連合加盟国の間の関係は、主権平等の原則の尊重を基礎とするから、信託統治制度は、加盟国となった地域には適用しない。",
+    "en": "The trusteeship system shall not apply to territories which have become Members of the United Nations, relationship among which shall be based on respect for the principle of sovereign equality."
+  },
+  {
+    "ja": "第79条",
+    "en": "Article 79"
+  },
+  {
+    "ja": "信託統治制度の下におかれる各地域に関する信託統治の条項は、いかなる変更又は改正も含めて、直接関係国によって協定され、且つ、第83条及び第85条に規定するところに従って承認されなければならない。この直接関係国は、国際連合加盟国の委任統治の下にある地域の場合には、受任国を含む。",
+    "en": "The terms of trusteeship for each territory to be placed under the trusteeship system, including any alteration or amendment, shall be agreed upon by the states directly concerned, including the mandatory power in the case of territories held under mandate by a Member of the United Nations, and shall be approved as provided for in Articles 83 and 85."
+  },
+  {
+    "ja": "第80条",
+    "en": "Article 80"
+  },
+  {
+    "ja": "1. 第77条、第79条及び第81条に基いて締結され、各地域を信託統治制度の下におく個個の信託統治協定において協定されるところを除き、また、このような協定が締結される時まで、本章の規定は、いずれの国又はいずれの人民のいかなる権利をも、また、国際連合加盟国がそれぞれ当事国となっている現存の国際文書の条項をも、直接又は間接にどのようにも変更するものと解釈してはならない。",
+    "en": "1. Except as may be agreed upon in individual trusteeship agreements, made under Articles 77, 79, and 81, placing each territory under the trusteeship system, and until such agreements have been concluded, nothing in this Chapter shall be construed in or of itself to alter in any manner the rights whatsoever of any states or any peoples or the terms of existing international instruments to which Members of the United Nations may respectively be parties."
+  },
+  {
+    "ja": "2. 本条1は、第77条に規定するところに従って委任統治地域及びその他の地域を信託統治制度の下におくための協定の交渉及び締結の遅滞又は延期に対して、根拠を与えるものと解釈してはならない。",
+    "en": "2. Paragraph 1 of this Article shall not be interpreted as giving grounds for delay or postponement of the negotiation and conclusion of agreements for placing mandated and other territories under the trusteeship system as provided for in Article 77."
+  },
+  {
+    "ja": "第81条",
+    "en": "Article 81"
+  },
+  {
+    "ja": "信託統治協定は、各場合において、信託統治地域の施政を行うについての条件を含み、且つ、信託統治地域の施政を行う当局を指定しなければならない。この当局は、以下施政権者といい、1若しくは2以上の国又はこの機構自身であることができる。",
+    "en": "The trusteeship agreement shall in each case include the terms under which the trust territory will be administered and designate the authority which will exercise the administration of the trust territory. Such authority, hereinafter called the administering authority, may be one or more states or the Organization itself."
+  },
+  {
+    "ja": "第82条",
+    "en": "Article 82"
+  },
+  {
+    "ja": "いかなる信託統治協定においても、その協定が適用される信託統治地域の一部又は全部を含む1又は2以上の戦略地区を指定することができる。但し、第43条に基いて締結される特別協定を害してはならない。",
+    "en": "There may be designated, in any trusteeship agreement, a strategic area or areas which may include part or all of the trust territory to which the agreement applies, without prejudice to any special agreement or agreements made under Article 43."
+  },
+  {
+    "ja": "第83条",
+    "en": "Article 83"
+  },
+  {
+    "ja": "1. 戦略地区に関する国際連合のすべての任務は、信託統治協定の条項及びその変更又は改正の承認を含めて、安全保障理事会が行う。",
+    "en": "1. All functions of the United Nations relating to strategic areas, including the approval of the terms of the trusteeship agreements and of their alteration or amendment shall be exercised by the Security Council."
+  },
+  {
+    "ja": "2. 第76条に掲げる基本目的は、各戦略地区の人民に適用する。",
+    "en": "2. The basic objectives set forth in Article 76 shall be applicable to the people of each strategic area."
+  },
+  {
+    "ja": "3. 安全保障理事会は、国際連合の信託統治制度に基く任務で戦略地区の政治的、経済的、社会的及び教育的事項に関するものを遂行するために、信託統治理事会の援助を利用する。但し、信託統治協定の規定には従うものとし、また、安全保障の考慮が妨げられてはならない。",
+    "en": "3. The Security Council shall, subject to the provisions of the trusteeship agreements and without prejudice to security considerations, avail itself of the assistance of the Trusteeship Council to perform those functions of the United Nations under the trusteeship system relating to political, economic, social, and educational matters in the strategic areas."
+  },
+  {
+    "ja": "第84条",
+    "en": "Article 84"
+  },
+  {
+    "ja": "信託統治地域が国際の平和及び安全の維持についてその役割を果すようにすることは、施政権者の義務である。このため、施政権者は、この点に関して安全保障理事会に対して負う義務を履行するに当って、また、地方的防衛並びに信託統治地域における法律及び秩序の維持のために、信託統治地域の義勇軍、便益及び援助を利用することができる。",
+    "en": "It shall be the duty of the administering authority to ensure that the trust territory shall play its part in the maintenance of international peace and security. To this end the administering authority may make use of volunteer forces, facilities, and assistance from the trust territory in carrying out the obligations towards the Security Council undertaken in this regard by the administering authority, as well as for local defence and the maintenance of law and order within the trust territory."
+  },
+  {
+    "ja": "第85条",
+    "en": "Article 85"
+  },
+  {
+    "ja": "1. 戦略地区として指定されないすべての地区に関する信託統治協定についての国際連合の任務は、この協定の条項及びその変更又は改正の承認を含めて、総会が行う。",
+    "en": "1. The functions of the United Nations with regard to trusteeship agreements for all areas not designated as strategic, including the approval of the terms of the trusteeship agreements and of their alteration or amendment, shall be exercised by the General Assembly."
+  },
+  {
+    "ja": "2. 総会の権威の下に行動する信託統治理事会は、前記の任務の遂行について総会を援助する。",
+    "en": "2. The Trusteeship Council, operating under the authority of the General Assembly shall assist the General Assembly in carrying out these functions."
+  },
+  {
+    "ja": "第13章　信託統治理事会",
+    "en": "Chapter XIII: The Trusteeship Council"
+  },
+  {
+    "ja": "【構成】",
+    "en": "COMPOSITION"
+  },
+  {
+    "ja": "第86条",
+    "en": "Article 86"
+  },
+  {
+    "ja": "1. 信託統治理事会は、次の国際連合加盟国で構成する。",
+    "en": "1. The Trusteeship Council shall consist of the following Members of the United Nations:"
+  },
+  {
+    "ja": "1. 信託統治地域の施政を行う加盟国",
+    "en": "1. those Members administering trust territories;"
+  },
+  {
+    "ja": "2. 第23条に名を掲げる加盟国で信託統治地域の施政を行っていないもの",
+    "en": "2. such of those Members mentioned by name in Article 23 as are not administering trust territories; and"
+  },
+  {
+    "ja": "3. 総会によって3年の任期で選挙されるその他の加盟国。その数は、信託統治理事会の理事国の総数を、信託統治地域の施政を行う国際連合加盟国とこれを行っていないものとの間に均分するのに必要な数とする。",
+    "en": "3. as many other Members elected for three-year terms by the General Assembly as may be necessary to ensure that the total number of members of the Trusteeship Council is equally divided between those Members of the United Nations which administer trust territories and those which do not."
+  },
+  {
+    "ja": "2. 信託統治理事会の各理事国は、理事会で自国を代表する特別の資格を有する者1人を指名しなければならない。",
+    "en": "2. Each member of the Trusteeship Council shall designate one specially qualified person to represent it therein."
+  },
+  {
+    "ja": "【任務及び権限】",
+    "en": "FUNCTIONS AND POWERS"
+  },
+  {
+    "ja": "第87条",
+    "en": "Article 87"
+  },
+  {
+    "ja": "総会及び、その権威の下に、信託統治理事会は、その任務の遂行に当って次のことを行うことができる。",
+    "en": "The General Assembly and, under its authority, the Trusteeship Council, in carrying out their functions, may:"
+  },
+  {
+    "ja": "1. 施政権者の提出する報告を審議すること。",
+    "en": "1. consider reports submitted by the administering authority;"
+  },
+  {
+    "ja": "2. 請願を受理し、且つ、施政権者と協議してこれを審査すること。",
+    "en": "2. accept petitions and examine them in consultation with the administering authority;"
+  },
+  {
+    "ja": "3. 施政権者と協定する時期に、それぞれの信託統治地域の定期視察を行わせること。",
+    "en": "3. provide for periodic visits to the respective trust territories at times agreed upon with the administering authority; and"
+  },
+  {
+    "ja": "4. 信託統治協定の条項に従って、前記の行動その他の行動をとること。",
+    "en": "4. take these and other actions in conformity with the terms of the trusteeship agreements."
+  },
+  {
+    "ja": "第88条",
+    "en": "Article 88"
+  },
+  {
+    "ja": "信託統治理事会は、各信託統治地域の住民の政治的、経済的、社会的及び教育的進歩に関する質問書を作成しなければならない。また、総会の権限内にある各信託統治地域の施政権者は、この質問書に基いて、総会に年次報告を提出しなければならない。",
+    "en": "The Trusteeship Council shall formulate a questionnaire on the political, economic, social, and educational advancement of the inhabitants of each trust territory, and the administering authority for each trust territory within the competence of the General Assembly shall make an annual report to the General Assembly upon the basis of such questionnaire."
+  },
+  {
+    "ja": "【表決】",
+    "en": "VOTING"
+  },
+  {
+    "ja": "第89条",
+    "en": "Article 89"
+  },
+  {
+    "ja": "1. 信託統治理事会の各理事国は、1個の投票権を有する。",
+    "en": "1. Each member of the Trusteeship Council shall have one vote."
+  },
+  {
+    "ja": "2. 信託統治理事会の決定は、出席し且つ投票する理事国の過半数によって行われる。",
+    "en": "2. Decisions of the Trusteeship Council shall be made by a majority of the members present and voting."
+  },
+  {
+    "ja": "【手続】",
+    "en": "PROCEDURE"
+  },
+  {
+    "ja": "第90条",
+    "en": "Article 90"
+  },
+  {
+    "ja": "1. 信託統治理事会は、議長を選定する方法を含むその手続規則を採択する。",
+    "en": "1. The Trusteeship Council shall adopt its own rules of procedure, including the method of selecting its President."
+  },
+  {
+    "ja": "2. 信託統治理事会は、その規則に従って必要があるときに会合する。この規則は、理事国の過半数の要請による会議招集の規定を含まなければならない。",
+    "en": "2. The Trusteeship Council shall meet as required in accordance with its rules, which shall include provision for the convening of meetings on the request of a majority of its members."
+  },
+  {
+    "ja": "第91条",
+    "en": "Article 91"
+  },
+  {
+    "ja": "信託統治理事会は、適当な場合には、経済社会理事会及び専門機関がそれぞれ関係している事項について、両者の援助を利用する。",
+    "en": "The Trusteeship Council shall, when appropriate, avail itself of the assistance of the Economic and Social Council and of the specialized agencies in regard to matters with which they are respectively concerned."
+  },
+  {
+    "ja": "第14章　国際司法裁判所",
+    "en": "Chapter XIV: The International Court of Justice"
+  },
+  {
+    "ja": "第92条",
+    "en": "Article 92"
+  },
+  {
+    "ja": "国際司法裁判所は、国際連合の主要な司法機関である。この裁判所は、付属の規程に従って任務を行う。この規定は、常設国際司法裁判所規程を基礎とし、且つ、この憲章と不可分の一体をなす。",
+    "en": "The International Court of Justice shall be the principal judicial organ of the United Nations. It shall function in accordance with the annexed Statute, which is based upon the Statute of the Permanent Court of International Justice and forms an integral part of the present Charter."
+  },
+  {
+    "ja": "第93条",
+    "en": "Article 93"
+  },
+  {
+    "ja": "1. すべての国際連合加盟国は、当然に、国際司法裁判所規程の当事国となる。",
+    "en": "1. All Members of the United Nations are ipso facto parties to the Statute of the International Court of Justice."
+  },
+  {
+    "ja": "2. 国際連合加盟国でない国は、安全保障理事会の勧告に基いて総会が各場合に決定する条件で国際司法裁判所規程の当事国となることができる。",
+    "en": "2. A state which is not a Member of the United Nations may become a party to the Statute of the International Court of Justice on conditions to be determined in each case by the General Assembly upon the recommendation of the Security Council."
+  },
+  {
+    "ja": "第94条",
+    "en": "Article 94"
+  },
+  {
+    "ja": "1. 各国際連合加盟国は、自国が当事者であるいかなる事件においても、国際司法裁判所の裁判に従うことを約束する。",
+    "en": "1. Each Member of the United Nations undertakes to comply with the decision of the International Court of Justice in any case to which it is a party."
+  },
+  {
+    "ja": "2. 事件の一方の当事者が裁判所の与える判決に基いて自国が負う義務を履行しないときは、他方の当事者は、安全保障理事会に訴えることができる。理事会は、必要と認めるときは、判決を執行するために勧告をし、又はとるべき措置を決定することができる。",
+    "en": "2. If any party to a case fails to perform the obligations incumbent upon it under a judgment rendered by the Court, the other party may have recourse to the Security Council, which may, if it deems necessary, make recommendations or decide upon measures to be taken to give effect to the judgment."
+  },
+  {
+    "ja": "第95条",
+    "en": "Article 95"
+  },
+  {
+    "ja": "この憲章のいかなる規定も、国際連合加盟国が相互間の紛争の解決を既に存在し又は将来締結する協定によって他の裁判所に付託することを妨げるものではない。",
+    "en": "Nothing in the present Charter shall prevent Members of the United Nations from entrusting the solution of their differences to other tribunals by virtue of agreements already in existence or which may be concluded in the future."
+  },
+  {
+    "ja": "第96条",
+    "en": "Article 96"
+  },
+  {
+    "ja": "総会又は安全保障理事会は、いかなる法律問題についても勧告的意見を与えるように国際司法裁判所に要請することができる。",
+    "en": "1. The General Assembly or the Security Council may request the International Court of Justice to give an advisory opinion on any legal question."
+  },
+  {
+    "ja": "国際連合のその他の機関及び専門機関でいずれかの時に総会の許可を得るものは、また、その活動の範囲内において生ずる法律問題について裁判所の勧告的意見を要請することができる。",
+    "en": "2. Other organs of the United Nations and specialized agencies, which may at any time be so authorized by the General Assembly, may also request advisory opinions of the Court on legal questions arising within the scope of their activities."
+  },
+  {
+    "ja": "第15章　事務局",
+    "en": "Chapter XV: The Secretariat"
+  },
+  {
+    "ja": "第97条",
+    "en": "Article 97"
+  },
+  {
+    "ja": "事務局は、1人の事務総長及びこの機構が必要とする職員からなる。事務総長は、安全保障理事会の勧告に基いて総会が任命する。事務総長は、この機構の行政職員の長である。",
+    "en": "The Secretariat shall comprise a Secretary-General and such staff as the Organization may require. The Secretary-General shall be appointed by the General Assembly upon the recommendation of the Security Council. He shall be the chief administrative officer of the Organization."
+  },
+  {
+    "ja": "第98条",
+    "en": "Article 98"
+  },
+  {
+    "ja": "事務総長は、総会、安全保障理事会、経済社会理事会及び信託統治理事会のすべての会議において事務総長の資格で行動し、且つ、これらの機関から委託される他の任務を遂行する。事務総長は、この機構の事業について総会に年次報告を行う。",
+    "en": "The Secretary-General shall act in that capacity in all meetings of the General Assembly, of the Security Council, of the Economic and Social Council, and of the Trusteeship Council, and shall perform such other functions as are entrusted to him by these organs. The Secretary-General shall make an annual report to the General Assembly on the work of the Organization."
+  },
+  {
+    "ja": "第99条",
+    "en": "Article 99"
+  },
+  {
+    "ja": "事務総長は、国際の平和及び安全の維持を脅威すると認める事項について、安全保障理事会の注意を促すことができる。",
+    "en": "The Secretary-General may bring to the attention of the Security Council any matter which in his opinion may threaten the maintenance of international peace and security."
+  },
+  {
+    "ja": "第100条",
+    "en": "Article 100"
+  },
+  {
+    "ja": "1. 事務総長及び職員は、その任務の遂行に当って、いかなる政府からも又はこの機構外のいかなる他の当局からも指示を求め、又は受けてはならない。事務総長及び職員は、この機構に対してのみ責任を負う国際的職員としての地位を損ずる虞のあるいかなる行動も慎まなければならない。",
+    "en": "1. In the performance of their duties the Secretary-General and the staff shall not seek or receive instructions from any government or from any other authority external to the Organization. They shall refrain from any action which might reflect on their position as international officials responsible only to the Organization."
+  },
+  {
+    "ja": "2. 各国際連合加盟国は、事務総長及び職員の責任のもっぱら国際的な性質を尊重すること並びにこれらの者が責任を果すに当ってこれらの者を左右しようとしないことを約束する。",
+    "en": "2. Each Member of the United Nations undertakes to respect the exclusively international character of the responsibilities of the Secretary-General and the staff and not to seek to influence them in the discharge of their responsibilities."
+  },
+  {
+    "ja": "第101条",
+    "en": "Article 101"
+  },
+  {
+    "ja": "1. 職員は、総会が設ける規則に従って事務総長が任命する。",
+    "en": "1. The staff shall be appointed by the Secretary-General under regulations established by the General Assembly."
+  },
+  {
+    "ja": "2. 経済社会理事会、信託統治理事会及び、必要に応じて、国際連合のその他の機関に、適当な職員を常任として配属する。この職員は、事務局の一部をなす。",
+    "en": "2. Appropriate staffs shall be permanently assigned to the Economic and Social Council, the Trusteeship Council, and, as required, to other organs of the United Nations. These staffs shall form a part of the Secretariat."
+  },
+  {
+    "ja": "3. 職員の雇用及び勤務条件の決定に当って最も考慮すべきことは、最高水準の能率、能力及び誠実を確保しなければならないことである。職員をなるべく広い地理的基礎に基いて採用することの重要性については、妥当な考慮を払わなければならない。",
+    "en": "3. The paramount consideration in the employment of the staff and in the determination of the conditions of service shall be the necessity of securing the highest standards of efficiency, competence, and integrity. Due regard shall be paid to the importance of recruiting the staff on as wide a geographical basis as possible."
+  },
+  {
+    "ja": "第16章　雑則",
+    "en": "Chapter XVI: Miscellaneous Provisions"
+  },
+  {
+    "ja": "第102条",
+    "en": "Article 102"
+  },
+  {
+    "ja": "1. この憲章が効力を生じた後に国際連合加盟国が締結するすべての条約及びすべての国際協定は、なるべくすみやかに事務局に登録され、且つ、事務局によって公表されなければならない。",
+    "en": "1. Every treaty and every international agreement entered into by any Member of the United Nations after the present Charter comes into force shall as soon as possible be registered with the Secretariat and published by it."
+  },
+  {
+    "ja": "2. 前記の条約又は国際協定で本条1の規定に従って登録されていないものの当事国は、国際連合のいかなる機関に対しても当該条約又は協定を援用することができない。",
+    "en": "2. No party to any such treaty or international agreement which has not been registered in accordance with the provisions of paragraph 1 of this Article may invoke that treaty or agreement before any organ of the United Nations."
+  },
+  {
+    "ja": "第103条",
+    "en": "Article 103"
+  },
+  {
+    "ja": "国際連合加盟国のこの憲章に基く義務と他のいずれかの国際協定に基く義務とが抵触するときは、この憲章に基く義務が優先する。",
+    "en": "In the event of a conflict between the obligations of the Members of the United Nations under the present Charter and their obligations under any other international agreement, their obligations under the present Charter shall prevail."
+  },
+  {
+    "ja": "第104条",
+    "en": "Article 104"
+  },
+  {
+    "ja": "この機構は、その任務の遂行及びその目的の達成のために必要な法律上の能力を各加盟国の領域において亨有する。",
+    "en": "The Organization shall enjoy in the territory of each of its Members such legal capacity as may be necessary for the exercise of its functions and the fulfilment of its purposes."
+  },
+  {
+    "ja": "第105条",
+    "en": "Article 105"
+  },
+  {
+    "ja": "1. この機構は、その目的の達成に必要な特権及び免除を各加盟国の領域において亨有する。",
+    "en": "1. The Organization shall enjoy in the territory of each of its Members such privileges and immunities as are necessary for the fulfilment of its purposes."
+  },
+  {
+    "ja": "2. これと同様に、国際連合加盟国の代表者及びこの機構の職員は、この機構に関連する自己の任務を独立に遂行するために必要な特権及び免除を亨有する。",
+    "en": "2. Representatives of the Members of the United Nations and officials of the Organization shall similarly enjoy such privileges and immunities as are necessary for the independent exercise of their functions in connection with the Organization."
+  },
+  {
+    "ja": "3. 総会は、本条1及び2の適用に関する細目を決定するために勧告をし、又はそのために国際連合加盟国に条約を提案することができる。",
+    "en": "3. The General Assembly may make recommendations with a view to determining the details of the application of paragraphs 1 and 2 of this Article or may propose conventions to the Members of the United Nations for this purpose."
+  },
+  {
+    "ja": "第17章　安全保障の過渡的規定",
+    "en": "Chapter XVII: Transitional Security Arrangements"
+  },
+  {
+    "ja": "第106条",
+    "en": "Article 106"
+  },
+  {
+    "ja": "第43条に掲げる特別協定でそれによって安全保障理事会が第42条に基く責任の遂行を開始することができると認めるものが効力を生ずるまでの間、1943年10月30日にモスコーで署名された4国宣言の当事国及びフランスは、この宣言の第5項の規定に従って、国際の平和及び安全の維持のために必要な共同行動をこの機構に代ってとるために相互に及び必要に応じて他の国際連合加盟国と協議しなければならない。",
+    "en": "Pending the coming into force of such special agreements referred to in Article 43 as in the opinion of the Security Council enable it to begin the exercise of its responsibilities under Article 42, the parties to the Four-Nation Declaration, signed at Moscow, 30 October 1943, and France, shall, in accordance with the provisions of paragraph 5 of that Declaration, consult with one another and as occasion requires with other Members of the United Nations with a view to such joint action on behalf of the Organization as may be necessary for the purpose of maintaining international peace and security."
+  },
+  {
+    "ja": "第107条",
+    "en": "Article 107"
+  },
+  {
+    "ja": "この憲章のいかなる規定も、第二次世界大戦中にこの憲章の署名国の敵であった国に関する行動でその行動について責任を有する政府がこの戦争の結果としてとり又は許可したものを無効にし、又は排除するものではない。",
+    "en": "Nothing in the present Charter shall invalidate or preclude action, in relation to any state which during the Second World War has been an enemy of any signatory to the present Charter, taken or authorized as a result of that war by the Governments having responsibility for such action."
+  },
+  {
+    "ja": "第18章　改正",
+    "en": "Chapter XVIII: Amendments"
+  },
+  {
+    "ja": "第108条",
+    "en": "Article 108"
+  },
+  {
+    "ja": "この憲章の改正は、総会の構成国の3分の2の多数で採択され、且つ、安全保障理事会のすべての常任理事国を含む国際連合加盟国の3分の2によって各自の憲法上の手続に従って批准された時に、すべての国際連合加盟国に対して効力を生ずる。",
+    "en": "Amendments to the present Charter shall come into force for all Members of the United Nations when they have been adopted by a vote of two thirds of the members of the General Assembly and ratified in accordance with their respective constitutional processes by two thirds of the Members of the United Nations, including all the permanent members of the Security Council."
+  },
+  {
+    "ja": "第109条",
+    "en": "Article 109"
+  },
+  {
+    "ja": "1. この憲章を再審議するための国際連合加盟国の全体会議は、総会の構成国の3分の2の多数及び安全保障理事会の9理事会の投票によって決定される日及び場所で開催することができる。各国際連合加盟国は、この会議において1個の投票権を有する。",
+    "en": "1. A General Conference of the Members of the United Nations for the purpose of reviewing the present Charter may be held at a date and place to be fixed by a two-thirds vote of the members of the General Assembly and by a vote of any nine members of the Security Council. Each Member of the United Nations shall have one vote in the conference."
+  },
+  {
+    "ja": "2. 全体会議の3分の2の多数によって勧告されるこの憲章の変更は、安全保障理事会のすべての常任理事国を含む国際連合加盟国の3分の2によって各自の憲法上の手続に従って批准された時に効力を生ずる。",
+    "en": "2. Any alteration of the present Charter recommended by a two-thirds vote of the conference shall take effect when ratified in accordance with their respective constitutional processes by two thirds of the Members of the United Nations including all the permanent members of the Security Council."
+  },
+  {
+    "ja": "3. この憲章の効力発生後の総会の第10回年次会期までに全体会議が開催されなかった場合には、これを招集する提案を総会の第10回年次会期の議事日程に加えなければならず、全体会議は、総会の構成国の過半数及び安全保障理事会の7理事国の投票によって決定されたときに開催しなければならない。",
+    "en": "3. If such a conference has not been held before the tenth annual session of the General Assembly following the coming into force of the present Charter, the proposal to call such a conference shall be placed on the agenda of that session of the General Assembly, and the conference shall be held if so decided by a majority vote of the members of the General Assembly and by a vote of any seven members of the Security Council."
+  },
+  {
+    "ja": "第19章　批准及び署名",
+    "en": "Chapter XIX: Ratification and Signature"
+  },
+  {
+    "ja": "第110条",
+    "en": "Article 110"
+  },
+  {
+    "ja": "1. この憲章は、署名国によって各自の憲法上の手続に従って批准されなければならない。",
+    "en": "1. The present Charter shall be ratified by the signatory states in accordance with their respective constitutional processes."
+  },
+  {
+    "ja": "2. 批准書は、アメリカ合衆国政府に寄託される。同政府は、すべての署名国及び、この機構の事務総長が任命された場合には、事務総長に対して各寄託を通告する。",
+    "en": "2. The ratifications shall be deposited with the Government of the United States of America, which shall notify all the signatory states of each deposit as well as the Secretary-General of the Organization when he has been appointed."
+  },
+  {
+    "ja": "3. この憲章は、中華民国、フランス、ソヴィエト社会主義共和国連邦、グレート・ブリテン及び北部アイルランド連合王国、アメリカ合衆国及びその他の署名国の過半数が批准書を寄託した時に効力を生ずる。批准書寄託調書は、その時にアメリカ合衆国政府が作成し、その謄本をすべての署名国に送付する。",
+    "en": "3. The present Charter shall come into force upon the deposit of ratifications by the Republic of China, France, the Union of Soviet Socialist Republics, the United Kingdom of Great Britain and Northern Ireland, and the United States of America, and by a majority of the other signatory states. A protocol of the ratifications deposited shall thereupon be drawn up by the Government of the United States of America which shall communicate copies thereof to all the signatory states."
+  },
+  {
+    "ja": "4. この憲章の署名国で憲章が効力を生じた後に批准するものは、各自の批准書の寄託の日に国際連合の原加盟国となる。",
+    "en": "4. The states signatory to the present Charter which ratify it after it has come into force will become original Members of the United Nations on the date of the deposit of their respective ratifications."
+  },
+  {
+    "ja": "第111条",
+    "en": "Article 111"
+  },
+  {
+    "ja": "この憲章は、中国語、フランス語、ロシア語、英語及びスペイン語の本文をひとしく正文とし、アメリカ合衆国政府の記録に寄託しておく。この憲章の認証謄本は、同政府が他の署名国の政府に送付する。",
+    "en": "The present Charter, of which the Chinese, French, Russian, English, and Spanish texts are equally authentic, shall remain deposited in the archives of the Government of the United States of America. Duly certified copies thereof shall be transmitted by that Government to the Governments of the other signatory states."
+  },
+  {
+    "ja": "以上の証拠として、連合国政府の代表者は、この憲章に署名した。1945年6月26日にサン・フランシスコ市で作成した。",
+    "en": "In Faith Whereof the representatives of the Governments of the United Nations have signed the present Charter. DONE at the city of San Francisco the twenty-sixth day of June, one thousand nine hundred and forty-five."
+  }
+]

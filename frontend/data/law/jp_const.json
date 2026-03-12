@@ -1,0 +1,778 @@
+[
+  {
+    "ja": "日本国憲法",
+    "en": "The Constitution of Japan"
+  },
+  {
+    "ja": "昭和二十一年十一月三日憲法",
+    "en": "Constitution November 3, 1946"
+  },
+  {
+    "ja": "日本国民は、正当に選挙された国会における代表者を通じて行動し、われらとわれらの子孫のために、諸国民との協和による成果と、わが国全土にわたつて自由のもたらす恵沢を確保し、政府の行為によつて再び戦争の惨禍が起ることのないやうにすることを決意し、ここに主権が国民に存することを宣言し、この憲法を確定する。そもそも国政は、国民の厳粛な信託によるものであつて、その権威は国民に由来し、その権力は国民の代表者がこれを行使し、その福利は国民がこれを享受する。これは人類普遍の原理であり、この憲法は、かかる原理に基くものである。われらは、これに反する一切の憲法、法令及び詔勅を排除する。",
+    "en": "We, the Japanese people, acting through our duly elected representatives in the National Diet, determined that we shall secure for ourselves and our posterity the fruits of peaceful cooperation with all nations and the blessings of liberty throughout this land, and resolved that never again shall we be visited with the horrors of war through the action of government, do proclaim that sovereign power resides with the people and do firmly establish this Constitution.Government is a sacred trust of the people, the authority for which is derived from the people, the powers of which are exercised by the representatives of the people, and the benefits of which are enjoyed by the people.This is a universal principle of mankind upon which this Constitution is founded.We reject and revoke all constitutions, laws, ordinances, and rescripts in conflict herewith."
+  },
+  {
+    "ja": "日本国民は、恒久の平和を念願し、人間相互の関係を支配する崇高な理想を深く自覚するのであつて、平和を愛する諸国民の公正と信義に信頼して、われらの安全と生存を保持しようと決意した。われらは、平和を維持し、専制と隷従、圧迫と偏狭を地上から永遠に除去しようと努めてゐる国際社会において、名誉ある地位を占めたいと思ふ。われらは、全世界の国民が、ひとしく恐怖と欠乏から免かれ、平和のうちに生存する権利を有することを確認する。",
+    "en": "We, the Japanese people, desire peace for all time and are deeply conscious of the high ideals controlling human relationship, and we have determined to preserve our security and existence, trusting in the justice and faith of the peace-loving peoples of the world.We desire to occupy an honored place in an international society striving for the preservation of peace, and the banishment of tyranny and slavery, oppression and intolerance for all time from the earth.We recognize that all peoples of the world have the right to live in peace, free from fear and want."
+  },
+  {
+    "ja": "われらは、いづれの国家も、自国のことのみに専念して他国を無視してはならないのであつて、政治道徳の法則は、普遍的なものであり、この法則に従ふことは、自国の主権を維持し、他国と対等関係に立たうとする各国の責務であると信ずる。",
+    "en": "We believe that no nation is responsible to itself alone, but that laws of political morality are universal; and that obedience to such laws is incumbent upon all nations who would sustain their own sovereignty and justify their sovereign relationship with other nations."
+  },
+  {
+    "ja": "日本国民は、国家の名誉にかけ、全力をあげてこの崇高な理想と目的を達成することを誓ふ。",
+    "en": "We, the Japanese people, pledge our national honor to accomplish these high ideals and purposes with all our resources."
+  },
+  {
+    "ja": "第一章　天皇",
+    "en": "CHAPTER I. THE EMPEROR"
+  },
+  {
+    "ja": "第一条天皇は、日本国の象徴であり日本国民統合の象徴であつて、この地位は、主権の存する日本国民の総意に基く。",
+    "en": "Article 1.The Emperor shall be the symbol of the State and of the unity of the people, deriving his position from the will of the people with whom resides sovereign power."
+  },
+  {
+    "ja": "第二条皇位は、世襲のものであつて、国会の議決した皇室典範の定めるところにより、これを継承する。",
+    "en": "Article 2.The Imperial Throne shall be dynastic and succeeded to in accordance with the Imperial House Law passed by the Diet."
+  },
+  {
+    "ja": "第三条天皇の国事に関するすべての行為には、内閣の助言と承認を必要とし、内閣が、その責任を負ふ。",
+    "en": "Article 3.The advice and approval of the Cabinet shall be required for all acts of the Emperor in matters of state, and the Cabinet shall be responsible therefor."
+  },
+  {
+    "ja": "第四条天皇は、この憲法の定める国事に関する行為のみを行ひ、国政に関する権能を有しない。",
+    "en": "Article 4.The Emperor shall perform only such acts in matters of state as are provided for in this Constitution and he shall not have powers related to government."
+  },
+  {
+    "ja": "天皇は、法律の定めるところにより、その国事に関する行為を委任することができる。",
+    "en": "The Emperor may delegate the performance of his acts in matters of state as may be provided by law."
+  },
+  {
+    "ja": "第五条皇室典範の定めるところにより摂政を置くときは、摂政は、天皇の名でその国事に関する行為を行ふ。この場合には、前条第一項の規定を準用する。",
+    "en": "Article 5.When, in accordance with the Imperial House Law, a Regency is established, the Regent shall perform his acts in matters of state in the Emperor's name.In this case, paragraph one of the preceding article will be applicable."
+  },
+  {
+    "ja": "第六条天皇は、国会の指名に基いて、内閣総理大臣を任命する。",
+    "en": "Article 6.The Emperor shall appoint the Prime Minister as designated by the Diet."
+  },
+  {
+    "ja": "天皇は、内閣の指名に基いて、最高裁判所の長たる裁判官を任命する。",
+    "en": "The Emperor shall appoint the Chief Judge of the Supreme Court as designated by the Cabinet."
+  },
+  {
+    "ja": "第七条天皇は、内閣の助言と承認により、国民のために、左の国事に関する行為を行ふ。",
+    "en": "Article 7.The Emperor, with the advice and approval of the Cabinet, shall perform the following acts in matters of state on behalf of the people:"
+  },
+  {
+    "ja": "一憲法改正、法律、政令及び条約を公布すること。",
+    "en": "Promulgation of amendments of the constitution, laws, cabinet orders and treaties."
+  },
+  {
+    "ja": "二国会を召集すること。",
+    "en": "Convocation of the Diet."
+  },
+  {
+    "ja": "三衆議院を解散すること。",
+    "en": "Dissolution of the House of Representatives."
+  },
+  {
+    "ja": "四国会議員の総選挙の施行を公示すること。",
+    "en": "Proclamation of general election of members of the Diet."
+  },
+  {
+    "ja": "五国務大臣及び法律の定めるその他の官吏の任免並びに全権委任状及び大使及び公使の信任状を認証すること。",
+    "en": "Attestation of the appointment and dismissal of Ministers of State and other officials as provided for by law, and of full powers and credentials of Ambassadors and Ministers."
+  },
+  {
+    "ja": "六大赦、特赦、減刑、刑の執行の免除及び復権を認証すること。",
+    "en": "Attestation of general and special amnesty, commutation of punishment, reprieve, and restoration of rights."
+  },
+  {
+    "ja": "七栄典を授与すること。",
+    "en": "Awarding of honors."
+  },
+  {
+    "ja": "八批准書及び法律の定めるその他の外交文書を認証すること。",
+    "en": "Attestation of instruments of ratification and other diplomatic documents as provided for by law."
+  },
+  {
+    "ja": "九外国の大使及び公使を接受すること。",
+    "en": "Receiving foreign ambassadors and ministers."
+  },
+  {
+    "ja": "十儀式を行ふこと。",
+    "en": "Performance of ceremonial functions."
+  },
+  {
+    "ja": "第八条皇室に財産を譲り渡し、又は皇室が、財産を譲り受け、若しくは賜与することは、国会の議決に基かなければならない。",
+    "en": "Article 8.No property can be given to, or received by, the Imperial House, nor can any gifts be made therefrom, without the authorization of the Diet."
+  },
+  {
+    "ja": "第二章　戦争の放棄",
+    "en": "CHAPTER II. RENUNCIATION OF WAR"
+  },
+  {
+    "ja": "第九条日本国民は、正義と秩序を基調とする国際平和を誠実に希求し、国権の発動たる戦争と、武力による威嚇又は武力の行使は、国際紛争を解決する手段としては、永久にこれを放棄する。",
+    "en": "Article 9.Aspiring sincerely to an international peace based on justice and order, the Japanese people forever renounce war as a sovereign right of the nation and the threat or use of force as means of settling international disputes."
+  },
+  {
+    "ja": "前項の目的を達するため、陸海空軍その他の戦力は、これを保持しない。国の交戦権は、これを認めない。",
+    "en": "In order to accomplish the aim of the preceding paragraph, land, sea, and air forces, as well as other war potential, will never be maintained.The right of belligerency of the state will not be recognized."
+  },
+  {
+    "ja": "第三章　国民の権利及び義務",
+    "en": "CHAPTER III. RIGHTS AND DUTIES OF THE PEOPLE"
+  },
+  {
+    "ja": "第十条日本国民たる要件は、法律でこれを定める。",
+    "en": "Article 10.The conditions necessary for being a Japanese national shall be determined by law."
+  },
+  {
+    "ja": "第十一条国民は、すべての基本的人権の享有を妨げられない。この憲法が国民に保障する基本的人権は、侵すことのできない永久の権利として、現在及び将来の国民に与へられる。",
+    "en": "Article 11.The people shall not be prevented from enjoying any of the fundamental human rights.These fundamental human rights guaranteed to the people by this Constitution shall be conferred upon the people of this and future generations as eternal and inviolate rights."
+  },
+  {
+    "ja": "第十二条この憲法が国民に保障する自由及び権利は、国民の不断の努力によつて、これを保持しなければならない。又、国民は、これを濫用してはならないのであつて、常に公共の福祉のためにこれを利用する責任を負ふ。",
+    "en": "Article 12.The freedoms and rights guaranteed to the people by this Constitution shall be maintained by the constant endeavor of the people, who shall refrain from any abuse of these freedoms and rights and shall always be responsible for utilizing them for the public welfare."
+  },
+  {
+    "ja": "第十三条すべて国民は、個人として尊重される。生命、自由及び幸福追求に対する国民の権利については、公共の福祉に反しない限り、立法その他の国政の上で、最大の尊重を必要とする。",
+    "en": "Article 13.All of the people shall be respected as individuals.Their right to life, liberty, and the pursuit of happiness shall, to the extent that it does not interfere with the public welfare, be the supreme consideration in legislation and in other governmental affairs."
+  },
+  {
+    "ja": "第十四条すべて国民は、法の下に平等であつて、人種、信条、性別、社会的身分又は門地により、政治的、経済的又は社会的関係において、差別されない。",
+    "en": "Article 14.All of the people are equal under the law and there shall be no discrimination in political, economic or social relations because of race, creed, sex, social status or family origin."
+  },
+  {
+    "ja": "華族その他の貴族の制度は、これを認めない。",
+    "en": "Peers and peerage shall not be recognized."
+  },
+  {
+    "ja": "栄誉、勲章その他の栄典の授与は、いかなる特権も伴はない。栄典の授与は、現にこれを有し、又は将来これを受ける者の一代に限り、その効力を有する。",
+    "en": "No privilege shall accompany any award of honor, decoration or any distinction, nor shall any such award be valid beyond the lifetime of the individual who now holds or hereafter may receive it."
+  },
+  {
+    "ja": "第十五条公務員を選定し、及びこれを罷免することは、国民固有の権利である。",
+    "en": "Article 15.The people have the inalienable right to choose their public officials and to dismiss them."
+  },
+  {
+    "ja": "すべて公務員は、全体の奉仕者であつて、一部の奉仕者ではない。",
+    "en": "All public officials are servants of the whole community and not of any group thereof."
+  },
+  {
+    "ja": "公務員の選挙については、成年者による普通選挙を保障する。",
+    "en": "Universal adult suffrage is guaranteed with regard to the election of public officials."
+  },
+  {
+    "ja": "すべて選挙における投票の秘密は、これを侵してはならない。選挙人は、その選択に関し公的にも私的にも責任を問はれない。",
+    "en": "In all elections, secrecy of the ballot shall not be violated.A voter shall not be answerable, publicly or privately, for the choice he has made."
+  },
+  {
+    "ja": "第十六条何人も、損害の救済、公務員の罷免、法律、命令又は規則の制定、廃止又は改正その他の事項に関し、平穏に請願する権利を有し、何人も、かかる請願をしたためにいかなる差別待遇も受けない。",
+    "en": "Article 16.Every person shall have the right of peaceful petition for the redress of damage, for the removal of public officials, for the enactment, repeal or amendment of laws, ordinances or regulations and for other matters; nor shall any person be in any way discriminated against for sponsoring such a petition."
+  },
+  {
+    "ja": "第十七条何人も、公務員の不法行為により、損害を受けたときは、法律の定めるところにより、国又は公共団体に、その賠償を求めることができる。",
+    "en": "Article 17.Every person may sue for redress as provided by law from the State or a public entity, in case he has suffered damage through illegal act of any public official."
+  },
+  {
+    "ja": "第十八条何人も、いかなる奴隷的拘束も受けない。又、犯罪に因る処罰の場合を除いては、その意に反する苦役に服させられない。",
+    "en": "Article 18.No person shall be held in bondage of any kind.Involuntary servitude, except as punishment for crime, is prohibited."
+  },
+  {
+    "ja": "第十九条思想及び良心の自由は、これを侵してはならない。",
+    "en": "Article 19.Freedom of thought and conscience shall not be violated."
+  },
+  {
+    "ja": "第二十条信教の自由は、何人に対してもこれを保障する。いかなる宗教団体も、国から特権を受け、又は政治上の権力を行使してはならない。",
+    "en": "Article 20.Freedom of religion is guaranteed to all.No religious organization shall receive any privileges from the State, nor exercise any political authority."
+  },
+  {
+    "ja": "何人も、宗教上の行為、祝典、儀式又は行事に参加することを強制されない。",
+    "en": "No person shall be compelled to take part in any religious act, celebration, rite or practice."
+  },
+  {
+    "ja": "国及びその機関は、宗教教育その他いかなる宗教的活動もしてはならない。",
+    "en": "The State and its organs shall refrain from religious education or any other religious activity."
+  },
+  {
+    "ja": "第二十一条集会、結社及び言論、出版その他一切の表現の自由は、これを保障する。",
+    "en": "Article 21.Freedom of assembly and association as well as speech, press and all other forms of expression are guaranteed."
+  },
+  {
+    "ja": "検閲は、これをしてはならない。通信の秘密は、これを侵してはならない。",
+    "en": "No censorship shall be maintained, nor shall the secrecy of any means of communication be violated."
+  },
+  {
+    "ja": "第二十二条何人も、公共の福祉に反しない限り、居住、移転及び職業選択の自由を有する。",
+    "en": "Article 22.Every person shall have freedom to choose and change his residence and to choose his occupation to the extent that it does not interfere with the public welfare."
+  },
+  {
+    "ja": "何人も、外国に移住し、又は国籍を離脱する自由を侵されない。",
+    "en": "Freedom of all persons to move to a foreign country and to divest themselves of their nationality shall be inviolate."
+  },
+  {
+    "ja": "第二十三条学問の自由は、これを保障する。",
+    "en": "Article 23.Academic freedom is guaranteed."
+  },
+  {
+    "ja": "第二十四条婚姻は、両性の合意のみに基いて成立し、夫婦が同等の権利を有することを基本として、相互の協力により、維持されなければならない。",
+    "en": "Article 24.Marriage shall be based only on the mutual consent of both sexes and it shall be maintained through mutual cooperation with the equal rights of husband and wife as a basis."
+  },
+  {
+    "ja": "配偶者の選択、財産権、相続、住居の選定、離婚並びに婚姻及び家族に関するその他の事項に関しては、法律は、個人の尊厳と両性の本質的平等に立脚して、制定されなければならない。",
+    "en": "With regard to choice of spouse, property rights, inheritance, choice of domicile, divorce and other matters pertaining to marriage and the family, laws shall be enacted from the standpoint of individual dignity and the essential equality of the sexes."
+  },
+  {
+    "ja": "第二十五条すべて国民は、健康で文化的な最低限度の生活を営む権利を有する。",
+    "en": "Article 25.All people shall have the right to maintain the minimum standards of wholesome and cultured living."
+  },
+  {
+    "ja": "国は、すべての生活部面について、社会福祉、社会保障及び公衆衛生の向上及び増進に努めなければならない。",
+    "en": "In all spheres of life, the State shall use its endeavors for the promotion and extension of social welfare and security, and of public health."
+  },
+  {
+    "ja": "第二十六条すべて国民は、法律の定めるところにより、その能力に応じて、ひとしく教育を受ける権利を有する。",
+    "en": "Article 26.All people shall have the right to receive an equal education correspondent to their ability, as provided by law."
+  },
+  {
+    "ja": "すべて国民は、法律の定めるところにより、その保護する子女に普通教育を受けさせる義務を負ふ。義務教育は、これを無償とする。",
+    "en": "All people shall be obligated to have all boys and girls under their protection receive ordinary education as provided for by law.Such compulsory education shall be free."
+  },
+  {
+    "ja": "第二十七条すべて国民は、勤労の権利を有し、義務を負ふ。",
+    "en": "Article 27.All people shall have the right and the obligation to work."
+  },
+  {
+    "ja": "賃金、就業時間、休息その他の勤労条件に関する基準は、法律でこれを定める。",
+    "en": "Standards for wages, hours, rest and other working conditions shall be fixed by law."
+  },
+  {
+    "ja": "児童は、これを酷使してはならない。",
+    "en": "Children shall not be exploited."
+  },
+  {
+    "ja": "第二十八条勤労者の団結する権利及び団体交渉その他の団体行動をする権利は、これを保障する。",
+    "en": "Article 28.The right of workers to organize and to bargain and act collectively is guaranteed."
+  },
+  {
+    "ja": "第二十九条財産権は、これを侵してはならない。",
+    "en": "Article 29.The right to own or to hold property is inviolable."
+  },
+  {
+    "ja": "財産権の内容は、公共の福祉に適合するやうに、法律でこれを定める。",
+    "en": "Property rights shall be defined by law, in conformity with the public welfare."
+  },
+  {
+    "ja": "私有財産は、正当な補償の下に、これを公共のために用ひることができる。",
+    "en": "Private property may be taken for public use upon just compensation therefor."
+  },
+  {
+    "ja": "第三十条国民は、法律の定めるところにより、納税の義務を負ふ。",
+    "en": "Article 30.The people shall be liable to taxation as provided by law."
+  },
+  {
+    "ja": "第三十一条何人も、法律の定める手続によらなければ、その生命若しくは自由を奪はれ、又はその他の刑罰を科せられない。",
+    "en": "Article 31.No person shall be deprived of life or liberty, nor shall any other criminal penalty be imposed, except according to procedure established by law."
+  },
+  {
+    "ja": "第三十二条何人も、裁判所において裁判を受ける権利を奪はれない。",
+    "en": "Article 32.No person shall be denied the right of access to the courts."
+  },
+  {
+    "ja": "第三十三条何人も、現行犯として逮捕される場合を除いては、権限を有する司法官憲が発し、且つ理由となつてゐる犯罪を明示する令状によらなければ、逮捕されない。",
+    "en": "Article 33.No person shall be apprehended except upon warrant issued by a competent judicial officer which specifies the offense with which the person is charged, unless he is apprehended, the offense being committed."
+  },
+  {
+    "ja": "第三十四条何人も、理由を直ちに告げられ、且つ、直ちに弁護人に依頼する権利を与へられなければ、抑留又は拘禁されない。又、何人も、正当な理由がなければ、拘禁されず、要求があれば、その理由は、直ちに本人及びその弁護人の出席する公開の法廷で示されなければならない。",
+    "en": "Article 34.No person shall be arrested or detained without being at once informed of the charges against him or without the immediate privilege of counsel; nor shall he be detained without adequate cause; and upon demand of any person such cause must be immediately shown in open court in his presence and the presence of his counsel."
+  },
+  {
+    "ja": "第三十五条何人も、その住居、書類及び所持品について、侵入、捜索及び押収を受けることのない権利は、第三十三条の場合を除いては、正当な理由に基いて発せられ、且つ捜索する場所及び押収する物を明示する令状がなければ、侵されない。",
+    "en": "Article 35.The right of all persons to be secure in their homes, papers and effects against entries, searches and seizures shall not be impaired except upon warrant issued for adequate cause and particularly describing the place to be searched and things to be seized, or except as provided by Article 33."
+  },
+  {
+    "ja": "捜索又は押収は、権限を有する司法官憲が発する各別の令状により、これを行ふ。",
+    "en": "Each search or seizure shall be made upon separate warrant issued by a competent judicial officer."
+  },
+  {
+    "ja": "第三十六条公務員による拷問及び残虐な刑罰は、絶対にこれを禁ずる。",
+    "en": "Article 36.The infliction of torture by any public officer and cruel punishments are absolutely forbidden."
+  },
+  {
+    "ja": "第三十七条すべて刑事事件においては、被告人は、公平な裁判所の迅速な公開裁判を受ける権利を有する。",
+    "en": "Article 37.In all criminal cases the accused shall enjoy the right to a speedy and public trial by an impartial tribunal."
+  },
+  {
+    "ja": "刑事被告人は、すべての証人に対して審問する機会を充分に与へられ、又、公費で自己のために強制的手続により証人を求める権利を有する。",
+    "en": "He shall be permitted full opportunity to examine all witnesses, and he shall have the right of compulsory process for obtaining witnesses on his behalf at public expense."
+  },
+  {
+    "ja": "刑事被告人は、いかなる場合にも、資格を有する弁護人を依頼することができる。被告人が自らこれを依頼することができないときは、国でこれを附する。",
+    "en": "At all times the accused shall have the assistance of competent counsel who shall, if the accused is unable to secure the same by his own efforts, be assigned to his use by the State."
+  },
+  {
+    "ja": "第三十八条何人も、自己に不利益な供述を強要されない。",
+    "en": "Article 38.No person shall be compelled to testify against himself."
+  },
+  {
+    "ja": "強制、拷問若しくは脅迫による自白又は不当に長く抑留若しくは拘禁された後の自白は、これを証拠とすることができない。",
+    "en": "Confession made under compulsion, torture or threat, or after prolonged arrest or detention shall not be admitted in evidence."
+  },
+  {
+    "ja": "何人も、自己に不利益な唯一の証拠が本人の自白である場合には、有罪とされ、又は刑罰を科せられない。",
+    "en": "No person shall be convicted or punished in cases where the only proof against him is his own confession."
+  },
+  {
+    "ja": "第三十九条何人も、実行の時に適法であつた行為又は既に無罪とされた行為については、刑事上の責任を問はれない。又、同一の犯罪について、重ねて刑事上の責任を問はれない。",
+    "en": "Article 39.No person shall be held criminally liable for an act which was lawful at the time it was committed, or of which he has been acquitted, nor shall he be placed in double jeopardy."
+  },
+  {
+    "ja": "第四十条何人も、抑留又は拘禁された後、無罪の裁判を受けたときは、法律の定めるところにより、国にその補償を求めることができる。",
+    "en": "Article 40.Any person, in case he is acquitted after he has been arrested or detained, may sue the State for redress as provided by law."
+  },
+  {
+    "ja": "第四章　国会",
+    "en": "CHAPTER IV. THE DIET"
+  },
+  {
+    "ja": "第四十一条国会は、国権の最高機関であつて、国の唯一の立法機関である。",
+    "en": "Article 41.The Diet shall be the highest organ of state power, and shall be the sole law-making organ of the State."
+  },
+  {
+    "ja": "第四十二条国会は、衆議院及び参議院の両議院でこれを構成する。",
+    "en": "Article 42.The Diet shall consist of two Houses, namely the House of Representatives and the House of Councillors."
+  },
+  {
+    "ja": "第四十三条両議院は、全国民を代表する選挙された議員でこれを組織する。",
+    "en": "Article 43.Both Houses shall consist of elected members, representative of all the people."
+  },
+  {
+    "ja": "両議院の議員の定数は、法律でこれを定める。",
+    "en": "The number of the members of each House shall be fixed by law."
+  },
+  {
+    "ja": "第四十四条両議院の議員及びその選挙人の資格は、法律でこれを定める。但し、人種、信条、性別、社会的身分、門地、教育、財産又は収入によつて差別してはならない。",
+    "en": "Article 44.The qualifications of members of both Houses and their electors shall be fixed by law.However, there shall be no discrimination because of race, creed, sex, social status, family origin, education, property or income."
+  },
+  {
+    "ja": "第四十五条衆議院議員の任期は、四年とする。但し、衆議院解散の場合には、その期間満了前に終了する。",
+    "en": "Article 45.The term of office of members of the House of Representatives shall be four years.However, the term shall be terminated before the full term is up in case the House of Representatives is dissolved."
+  },
+  {
+    "ja": "第四十六条参議院議員の任期は、六年とし、三年ごとに議員の半数を改選する。",
+    "en": "Article 46.The term of office of members of the House of Councillors shall be six years, and election for half the members shall take place every three years."
+  },
+  {
+    "ja": "第四十七条選挙区、投票の方法その他両議院の議員の選挙に関する事項は、法律でこれを定める。",
+    "en": "Article 47.Electoral districts, method of voting and other matters pertaining to the method of election of members of both Houses shall be fixed by law."
+  },
+  {
+    "ja": "第四十八条何人も、同時に両議院の議員たることはできない。",
+    "en": "Article 48.No person shall be permitted to be a member of both Houses simultaneously."
+  },
+  {
+    "ja": "第四十九条両議院の議員は、法律の定めるところにより、国庫から相当額の歳費を受ける。",
+    "en": "Article 49.Members of both Houses shall receive appropriate annual payment from the national treasury in accordance with law."
+  },
+  {
+    "ja": "第五十条両議院の議員は、法律の定める場合を除いては、国会の会期中逮捕されず、会期前に逮捕された議員は、その議院の要求があれば、会期中これを釈放しなければならない。",
+    "en": "Article 50.Except in cases provided by law, members of both Houses shall be exempt from apprehension while the Diet is in session, and any members apprehended before the opening of the session shall be freed during the term of the session upon demand of the House."
+  },
+  {
+    "ja": "第五十一条両議院の議員は、議院で行つた演説、討論又は表決について、院外で責任を問はれない。",
+    "en": "Article 51.Members of both Houses shall not be held liable outside the House for speeches, debates or votes cast inside the House."
+  },
+  {
+    "ja": "第五十二条国会の常会は、毎年一回これを召集する。",
+    "en": "Article 52.An ordinary session of the Diet shall be convoked once per year."
+  },
+  {
+    "ja": "第五十三条内閣は、国会の臨時会の召集を決定することができる。いづれかの議院の総議員の四分の一以上の要求があれば、内閣は、その召集を決定しなければならない。",
+    "en": "Article 53.The Cabinet may determine to convoke extraordinary sessions of the Diet.When a quarter or more of the total members of either House makes the demand, the Cabinet must determine on such convocation."
+  },
+  {
+    "ja": "第五十四条衆議院が解散されたときは、解散の日から四十日以内に、衆議院議員の総選挙を行ひ、その選挙の日から三十日以内に、国会を召集しなければならない。",
+    "en": "Article 54.When the House of Representatives is dissolved, there must be a general election of members of the House of Representatives within forty (40) days from the date of dissolution, and the Diet must be convoked within thirty (30) days from the date of the election."
+  },
+  {
+    "ja": "衆議院が解散されたときは、参議院は、同時に閉会となる。但し、内閣は、国に緊急の必要があるときは、参議院の緊急集会を求めることができる。",
+    "en": "When the House of Representatives is dissolved, the House of Councillors is closed at the same time.However, the Cabinet may in time of national emergency convoke the House of Councillors in emergency session."
+  },
+  {
+    "ja": "前項但書の緊急集会において採られた措置は、臨時のものであつて、次の国会開会の後十日以内に、衆議院の同意がない場合には、その効力を失ふ。",
+    "en": "Measures taken at such session as mentioned in the proviso of the preceding paragraph shall be provisional and shall become null and void unless agreed to by the House of Representatives within a period of ten (10) days after the opening of the next session of the Diet."
+  },
+  {
+    "ja": "第五十五条両議院は、各々その議員の資格に関する争訟を裁判する。但し、議員の議席を失はせるには、出席議員の三分の二以上の多数による議決を必要とする。",
+    "en": "Article 55.Each House shall judge disputes related to qualifications of its members.However, in order to deny a seat to any member, it is necessary to pass a resolution by a majority of two-thirds or more of the members present."
+  },
+  {
+    "ja": "第五十六条両議院は、各々その総議員の三分の一以上の出席がなければ、議事を開き議決することができない。",
+    "en": "Article 56.Business cannot be transacted in either House unless one-third or more of total membership is present."
+  },
+  {
+    "ja": "両議院の議事は、この憲法に特別の定のある場合を除いては、出席議員の過半数でこれを決し、可否同数のときは、議長の決するところによる。",
+    "en": "All matters shall be decided, in each House, by a majority of those present, except as elsewhere provided in the Constitution, and in case of a tie, the presiding officer shall decide the issue."
+  },
+  {
+    "ja": "第五十七条両議院の会議は、公開とする。但し、出席議員の三分の二以上の多数で議決したときは、秘密会を開くことができる。",
+    "en": "Article 57.Deliberation in each House shall be public.However, a secret meeting may be held where a majority of two-thirds or more of those members present passes a resolution therefor."
+  },
+  {
+    "ja": "両議院は、各々その会議の記録を保存し、秘密会の記録の中で特に秘密を要すると認められるもの以外は、これを公表し、且つ一般に頒布しなければならない。",
+    "en": "Each House shall keep a record of proceedings. This record shall be published and given general circulation, excepting such parts of proceedings of secret session as may be deemed to require secrecy."
+  },
+  {
+    "ja": "出席議員の五分の一以上の要求があれば、各議員の表決は、これを会議録に記載しなければならない。",
+    "en": "Upon demand of one-fifth or more of the members present, votes of the members on any matter shall be recorded in the minutes."
+  },
+  {
+    "ja": "第五十八条両議院は、各々その議長その他の役員を選任する。",
+    "en": "Article 58.Each House shall select its own president and other officials."
+  },
+  {
+    "ja": "両議院は、各々その会議その他の手続及び内部の規律に関する規則を定め、又、院内の秩序をみだした議員を懲罰することができる。但し、議員を除名するには、出席議員の三分の二以上の多数による議決を必要とする。",
+    "en": "Each House shall establish its rules pertaining to meetings, proceedings and internal discipline, and may punish members for disorderly conduct.However, in order to expel a member, a majority of two-thirds or more of those members present must pass a resolution thereon."
+  },
+  {
+    "ja": "第五十九条法律案は、この憲法に特別の定のある場合を除いては、両議院で可決したとき法律となる。",
+    "en": "Article 59.A bill becomes a law on passage by both Houses, except as otherwise provided by the Constitution."
+  },
+  {
+    "ja": "衆議院で可決し、参議院でこれと異なつた議決をした法律案は、衆議院で出席議員の三分の二以上の多数で再び可決したときは、法律となる。",
+    "en": "A bill which is passed by the House of Representatives, and upon which the House of Councillors makes a decision different from that of the House of Representatives, becomes a law when passed a second time by the House of Representatives by a majority of two-thirds or more of the members present."
+  },
+  {
+    "ja": "前項の規定は、法律の定めるところにより、衆議院が、両議院の協議会を開くことを求めることを妨げない。",
+    "en": "The provision of the preceding paragraph does not preclude the House of Representatives from calling for the meeting of a joint committee of both Houses, provided for by law."
+  },
+  {
+    "ja": "参議院が、衆議院の可決した法律案を受け取つた後、国会休会中の期間を除いて六十日以内に、議決しないときは、衆議院は、参議院がその法律案を否決したものとみなすことができる。",
+    "en": "Failure by the House of Councillors to take final action within sixty (60) days after receipt of a bill passed by the House of Representatives, time in recess excepted, may be determined by the House of Representatives to constitute a rejection of the said bill by the House of Councillors."
+  },
+  {
+    "ja": "第六十条予算は、さきに衆議院に提出しなければならない。",
+    "en": "Article 60.The budget must first be submitted to the House of Representatives."
+  },
+  {
+    "ja": "予算について、参議院で衆議院と異なつた議決をした場合に、法律の定めるところにより、両議院の協議会を開いても意見が一致しないとき、又は参議院が、衆議院の可決した予算を受け取つた後、国会休会中の期間を除いて三十日以内に、議決しないときは、衆議院の議決を国会の議決とする。",
+    "en": "Upon consideration of the budget, when the House of Councillors makes a decision different from that of the House of Representatives, and when no agreement can be reached even through a joint committee of both Houses, provided for by law, or in the case of failure by the House of Councillors to take final action within thirty (30) days, the period of recess excluded, after the receipt of the budget passed by the House of Representatives, the decision of the House of Representatives shall be the decision of the Diet."
+  },
+  {
+    "ja": "第六十一条条約の締結に必要な国会の承認については、前条第二項の規定を準用する。",
+    "en": "Article 61.The second paragraph of the preceding article applies also to the Diet approval required for the conclusion of treaties."
+  },
+  {
+    "ja": "第六十二条両議院は、各々国政に関する調査を行ひ、これに関して、証人の出頭及び証言並びに記録の提出を要求することができる。",
+    "en": "Article 62.Each House may conduct investigations in relation to government, and may demand the presence and testimony of witnesses, and the production of records."
+  },
+  {
+    "ja": "第六十三条内閣総理大臣その他の国務大臣は、両議院の一に議席を有すると有しないとにかかはらず、何時でも議案について発言するため議院に出席することができる。又、答弁又は説明のため出席を求められたときは、出席しなければならない。",
+    "en": "Article 63.The Prime Minister and other Ministers of State may, at any time, appear in either House for the purpose of speaking on bills, regardless of whether they are members of the House or not.They must appear when their presence is required in order to give answers or explanations."
+  },
+  {
+    "ja": "第六十四条国会は、罷免の訴追を受けた裁判官を裁判するため、両議院の議員で組織する弾劾裁判所を設ける。",
+    "en": "Article 64.The Diet shall set up an impeachment court from among the members of both Houses for the purpose of trying those judges against whom removal proceedings have been instituted."
+  },
+  {
+    "ja": "弾劾に関する事項は、法律でこれを定める。",
+    "en": "Matters relating to impeachment shall be provided by law."
+  },
+  {
+    "ja": "第五章　内閣",
+    "en": "CHAPTER V. THE CABINET"
+  },
+  {
+    "ja": "第六十五条行政権は、内閣に属する。",
+    "en": "Article 65.Executive power shall be vested in the Cabinet."
+  },
+  {
+    "ja": "第六十六条内閣は、法律の定めるところにより、その首長たる内閣総理大臣及びその他の国務大臣でこれを組織する。",
+    "en": "Article 66.The Cabinet shall consist of the Prime Minister, who shall be its head, and other Ministers of State, as provided for by law."
+  },
+  {
+    "ja": "内閣総理大臣その他の国務大臣は、文民でなければならない。",
+    "en": "The Prime Minister and other Ministers of State must be civilians."
+  },
+  {
+    "ja": "内閣は、行政権の行使について、国会に対し連帯して責任を負ふ。",
+    "en": "The Cabinet, in the exercise of executive power, shall be collectively responsible to the Diet."
+  },
+  {
+    "ja": "第六十七条内閣総理大臣は、国会議員の中から国会の議決で、これを指名する。この指名は、他のすべての案件に先だつて、これを行ふ。",
+    "en": "Article 67.The Prime Minister shall be designated from among the members of the Diet by a resolution of the Diet.This designation shall precede all other business."
+  },
+  {
+    "ja": "衆議院と参議院とが異なつた指名の議決をした場合に、法律の定めるところにより、両議院の協議会を開いても意見が一致しないとき、又は衆議院が指名の議決をした後、国会休会中の期間を除いて十日以内に、参議院が、指名の議決をしないときは、衆議院の議決を国会の議決とする。",
+    "en": "If the House of Representatives and the House of Councillors disagree and if no agreement can be reached even through a joint committee of both Houses, provided for by law, or the House of Councillors fails to make designation within ten (10) days, exclusive of the period of recess, after the House of Representatives has made designation, the decision of the House of Representatives shall be the decision of the Diet."
+  },
+  {
+    "ja": "第六十八条内閣総理大臣は、国務大臣を任命する。但し、その過半数は、国会議員の中から選ばれなければならない。",
+    "en": "Article 68.The Prime Minister shall appoint the Ministers of State.However, a majority of their number must be chosen from among the members of the Diet."
+  },
+  {
+    "ja": "内閣総理大臣は、任意に国務大臣を罷免することができる。",
+    "en": "The Prime Minister may remove the Ministers of State as he chooses."
+  },
+  {
+    "ja": "第六十九条内閣は、衆議院で不信任の決議案を可決し、又は信任の決議案を否決したときは、十日以内に衆議院が解散されない限り、総辞職をしなければならない。",
+    "en": "Article 69.If the House of Representatives passes a non-confidence resolution, or rejects a confidence resolution, the Cabinet shall resign en masse, unless the House of Representatives is dissolved within ten (10) days."
+  },
+  {
+    "ja": "第七十条内閣総理大臣が欠けたとき、又は衆議院議員総選挙の後に初めて国会の召集があつたときは、内閣は、総辞職をしなければならない。",
+    "en": "Article 70.When there is a vacancy in the post of Prime Minister, or upon the first convocation of the Diet after a general election of members of the House of Representatives, the Cabinet shall resign en masse."
+  },
+  {
+    "ja": "第七十一条前二条の場合には、内閣は、あらたに内閣総理大臣が任命されるまで引き続きその職務を行ふ。",
+    "en": "Article 71.In the cases mentioned in the two preceding articles, the Cabinet shall continue its functions until the time when a new Prime Minister is appointed."
+  },
+  {
+    "ja": "第七十二条内閣総理大臣は、内閣を代表して議案を国会に提出し、一般国務及び外交関係について国会に報告し、並びに行政各部を指揮監督する。",
+    "en": "Article 72.The Prime Minister, representing the Cabinet, submits bills, reports on general national affairs and foreign relations to the Diet and exercises control and supervision over various administrative branches."
+  },
+  {
+    "ja": "第七十三条内閣は、他の一般行政事務の外、左の事務を行ふ。",
+    "en": "Article 73.The Cabinet, in addition to other general administrative functions, shall perform the following functions:"
+  },
+  {
+    "ja": "一法律を誠実に執行し、国務を総理すること。",
+    "en": "Administer the law faithfully; conduct affairs of state."
+  },
+  {
+    "ja": "二外交関係を処理すること。",
+    "en": "Manage foreign affairs."
+  },
+  {
+    "ja": "三条約を締結すること。但し、事前に、時宜によつては事後に、国会の承認を経ることを必要とする。",
+    "en": "Conclude treaties.However, it shall obtain prior or, depending on circumstances, subsequent approval of the Diet."
+  },
+  {
+    "ja": "四法律の定める基準に従ひ、官吏に関する事務を掌理すること。",
+    "en": "Administer the civil service, in accordance with standards established by law."
+  },
+  {
+    "ja": "五予算を作成して国会に提出すること。",
+    "en": "Prepare the budget, and present it to the Diet."
+  },
+  {
+    "ja": "六この憲法及び法律の規定を実施するために、政令を制定すること。但し、政令には、特にその法律の委任がある場合を除いては、罰則を設けることができない。",
+    "en": "Enact cabinet orders in order to execute the provisions of this Constitution and of the law.However, it cannot include penal provisions in such cabinet orders unless authorized by such law."
+  },
+  {
+    "ja": "七大赦、特赦、減刑、刑の執行の免除及び復権を決定すること。",
+    "en": "Decide on general amnesty, special amnesty, commutation of punishment, reprieve, and restoration of rights."
+  },
+  {
+    "ja": "第七十四条法律及び政令には、すべて主任の国務大臣が署名し、内閣総理大臣が連署することを必要とする。",
+    "en": "Article 74.All laws and cabinet orders shall be signed by the competent Minister of State and countersigned by the Prime Minister."
+  },
+  {
+    "ja": "第七十五条国務大臣は、その在任中、内閣総理大臣の同意がなければ、訴追されない。但し、これがため、訴追の権利は、害されない。",
+    "en": "Article 75.The Ministers of State, during their tenure of office, shall not be subject to legal action without the consent of the Prime Minister.However, the right to take that action is not impaired hereby."
+  },
+  {
+    "ja": "第六章　司法",
+    "en": "CHAPTER VI. JUDICIARY"
+  },
+  {
+    "ja": "第七十六条すべて司法権は、最高裁判所及び法律の定めるところにより設置する下級裁判所に属する。",
+    "en": "Article 76.The whole judicial power is vested in a Supreme Court and in such inferior courts as are established by law."
+  },
+  {
+    "ja": "特別裁判所は、これを設置することができない。行政機関は、終審として裁判を行ふことができない。",
+    "en": "No extraordinary tribunal shall be established, nor shall any organ or agency of the Executive be given final judicial power."
+  },
+  {
+    "ja": "すべて裁判官は、その良心に従ひ独立してその職権を行ひ、この憲法及び法律にのみ拘束される。",
+    "en": "All judges shall be independent in the exercise of their conscience and shall be bound only by this Constitution and the laws."
+  },
+  {
+    "ja": "第七十七条最高裁判所は、訴訟に関する手続、弁護士、裁判所の内部規律及び司法事務処理に関する事項について、規則を定める権限を有する。",
+    "en": "Article 77.The Supreme Court is vested with the rule-making power under which it determines the rules of procedure and of practice, and of matters relating to attorneys, the internal discipline of the courts and the administration of judicial affairs."
+  },
+  {
+    "ja": "検察官は、最高裁判所の定める規則に従はなければならない。",
+    "en": "Public procurators shall be subject to the rule-making power of the Supreme Court."
+  },
+  {
+    "ja": "最高裁判所は、下級裁判所に関する規則を定める権限を、下級裁判所に委任することができる。",
+    "en": "The Supreme Court may delegate the power to make rules for inferior courts to such courts."
+  },
+  {
+    "ja": "第七十八条裁判官は、裁判により、心身の故障のために職務を執ることができないと決定された場合を除いては、公の弾劾によらなければ罷免されない。裁判官の懲戒処分は、行政機関がこれを行ふことはできない。",
+    "en": "Article 78.Judges shall not be removed except by public impeachment unless judicially declared mentally or physically incompetent to perform official duties.No disciplinary action against judges shall be administered by any executive organ or agency."
+  },
+  {
+    "ja": "第七十九条最高裁判所は、その長たる裁判官及び法律の定める員数のその他の裁判官でこれを構成し、その長たる裁判官以外の裁判官は、内閣でこれを任命する。",
+    "en": "Article 79.The Supreme Court shall consist of a Chief Judge and such number of judges as may be determined by law; all such judges excepting the Chief Judge shall be appointed by the Cabinet."
+  },
+  {
+    "ja": "最高裁判所の裁判官の任命は、その任命後初めて行はれる衆議院議員総選挙の際国民の審査に付し、その後十年を経過した後初めて行はれる衆議院議員総選挙の際更に審査に付し、その後も同様とする。",
+    "en": "The appointment of the judges of the Supreme Court shall be reviewed by the people at the first general election of members of the House of Representatives following their appointment, and shall be reviewed again at the first general election of members of the House of Representatives after a lapse of ten (10) years, and in the same manner thereafter."
+  },
+  {
+    "ja": "前項の場合において、投票者の多数が裁判官の罷免を可とするときは、その裁判官は、罷免される。",
+    "en": "In cases mentioned in the foregoing paragraph, when the majority of the voters favors the dismissal of a judge, he shall be dismissed."
+  },
+  {
+    "ja": "審査に関する事項は、法律でこれを定める。",
+    "en": "Matters pertaining to review shall be prescribed by law."
+  },
+  {
+    "ja": "最高裁判所の裁判官は、法律の定める年齢に達した時に退官する。",
+    "en": "The judges of the Supreme Court shall be retired upon the attainment of the age as fixed by law."
+  },
+  {
+    "ja": "最高裁判所の裁判官は、すべて定期に相当額の報酬を受ける。この報酬は、在任中、これを減額することができない。",
+    "en": "All such judges shall receive, at regular stated intervals, adequate compensation which shall not be decreased during their terms of office."
+  },
+  {
+    "ja": "第八十条下級裁判所の裁判官は、最高裁判所の指名した者の名簿によつて、内閣でこれを任命する。その裁判官は、任期を十年とし、再任されることができる。但し、法律の定める年齢に達した時には退官する。",
+    "en": "Article 80.The judges of the inferior courts shall be appointed by the Cabinet from a list of persons nominated by the Supreme Court.All such judges shall hold office for a term of ten (10) years with privilege of reappointment, provided that they shall be retired upon the attainment of the age as fixed by law."
+  },
+  {
+    "ja": "下級裁判所の裁判官は、すべて定期に相当額の報酬を受ける。この報酬は、在任中、これを減額することができない。",
+    "en": "The judges of the inferior courts shall receive, at regular stated intervals, adequate compensation which shall not be decreased during their terms of office."
+  },
+  {
+    "ja": "第八十一条最高裁判所は、一切の法律、命令、規則又は処分が憲法に適合するかしないかを決定する権限を有する終審裁判所である。",
+    "en": "Article 81.The Supreme Court is the court of last resort with power to determine the constitutionality of any law, order, regulation or official act."
+  },
+  {
+    "ja": "第八十二条裁判の対審及び判決は、公開法廷でこれを行ふ。",
+    "en": "Article 82.Trials shall be conducted and judgment declared publicly."
+  },
+  {
+    "ja": "裁判所が、裁判官の全員一致で、公の秩序又は善良の風俗を害する虞があると決した場合には、対審は、公開しないでこれを行ふことができる。但し、政治犯罪、出版に関する犯罪又はこの憲法第三章で保障する国民の権利が問題となつてゐる事件の対審は、常にこれを公開しなければならない。",
+    "en": "Where a court unanimously determines publicity to be dangerous to public order or morals, a trial may be conducted privately, but trials of political offenses, offenses involving the press or cases wherein the rights of people as guaranteed in Chapter III of this Constitution are in question shall always be conducted publicly."
+  },
+  {
+    "ja": "第七章　財政",
+    "en": "CHAPTER VII. FINANCE"
+  },
+  {
+    "ja": "第八十三条国の財政を処理する権限は、国会の議決に基いて、これを行使しなければならない。",
+    "en": "Article 83.The power to administer national finances shall be exercised as the Diet shall determine."
+  },
+  {
+    "ja": "第八十四条あらたに租税を課し、又は現行の租税を変更するには、法律又は法律の定める条件によることを必要とする。",
+    "en": "Article 84.No new taxes shall be imposed or existing ones modified except by law or under such conditions as law may prescribe."
+  },
+  {
+    "ja": "第八十五条国費を支出し、又は国が債務を負担するには、国会の議決に基くことを必要とする。",
+    "en": "Article 85.No money shall be expended, nor shall the State obligate itself, except as authorized by the Diet."
+  },
+  {
+    "ja": "第八十六条内閣は、毎会計年度の予算を作成し、国会に提出して、その審議を受け議決を経なければならない。",
+    "en": "Article 86.The Cabinet shall prepare and submit to the Diet for its consideration and decision a budget for each fiscal year."
+  },
+  {
+    "ja": "第八十七条予見し難い予算の不足に充てるため、国会の議決に基いて予備費を設け、内閣の責任でこれを支出することができる。",
+    "en": "Article 87.In order to provide for unforeseen deficiencies in the budget, a reserve fund may be authorized by the Diet to be expended upon the responsibility of the Cabinet."
+  },
+  {
+    "ja": "すべて予備費の支出については、内閣は、事後に国会の承諾を得なければならない。",
+    "en": "The Cabinet must get subsequent approval of the Diet for all payments from the reserve fund."
+  },
+  {
+    "ja": "第八十八条すべて皇室財産は、国に属する。すべて皇室の費用は、予算に計上して国会の議決を経なければならない。",
+    "en": "Article 88.All property of the Imperial Household shall belong to the State.All expenses of the Imperial Household shall be appropriated by the Diet in the budget."
+  },
+  {
+    "ja": "第八十九条公金その他の公の財産は、宗教上の組織若しくは団体の使用、便益若しくは維持のため、又は公の支配に属しない慈善、教育若しくは博愛の事業に対し、これを支出し、又はその利用に供してはならない。",
+    "en": "Article 89.No public money or other property shall be expended or appropriated for the use, benefit or maintenance of any religious institution or association, or for any charitable, educational or benevolent enterprises not under the control of public authority."
+  },
+  {
+    "ja": "第九十条国の収入支出の決算は、すべて毎年会計検査院がこれを検査し、内閣は、次の年度に、その検査報告とともに、これを国会に提出しなければならない。",
+    "en": "Article 90.Final accounts of the expenditures and revenues of the State shall be audited annually by a Board of Audit and submitted by the Cabinet to the Diet, together with the statement of audit, during the fiscal year immediately following the period covered."
+  },
+  {
+    "ja": "会計検査院の組織及び権限は、法律でこれを定める。",
+    "en": "The organization and competency of the Board of Audit shall be determined by law."
+  },
+  {
+    "ja": "第九十一条内閣は、国会及び国民に対し、定期に、少くとも毎年一回、国の財政状況について報告しなければならない。",
+    "en": "Article 91.At regular intervals and at least annually the Cabinet shall report to the Diet and the people on the state of national finances."
+  },
+  {
+    "ja": "第八章　地方自治",
+    "en": "CHAPTER VIII. LOCAL SELF-GOVERNMENT"
+  },
+  {
+    "ja": "第九十二条地方公共団体の組織及び運営に関する事項は、地方自治の本旨に基いて、法律でこれを定める。",
+    "en": "Article 92.Regulations concerning organization and operations of local public entities shall be fixed by law in accordance with the principle of local autonomy."
+  },
+  {
+    "ja": "第九十三条地方公共団体には、法律の定めるところにより、その議事機関として議会を設置する。",
+    "en": "Article 93.The local public entities shall establish assemblies as their deliberative organs, in accordance with law."
+  },
+  {
+    "ja": "地方公共団体の長、その議会の議員及び法律の定めるその他の吏員は、その地方公共団体の住民が、直接これを選挙する。",
+    "en": "The chief executive officers of all local public entities, the members of their assemblies, and such other local officials as may be determined by law shall be elected by direct popular vote within their several communities."
+  },
+  {
+    "ja": "第九十四条地方公共団体は、その財産を管理し、事務を処理し、及び行政を執行する権能を有し、法律の範囲内で条例を制定することができる。",
+    "en": "Article 94.Local public entities shall have the right to manage their property, affairs and administration and to enact their own regulations within law."
+  },
+  {
+    "ja": "第九十五条一の地方公共団体のみに適用される特別法は、法律の定めるところにより、その地方公共団体の住民の投票においてその過半数の同意を得なければ、国会は、これを制定することができない。",
+    "en": "Article 95.A special law, applicable only to one local public entity, cannot be enacted by the Diet without the consent of the majority of the voters of the local public entity concerned, obtained in accordance with law."
+  },
+  {
+    "ja": "第九章　改正",
+    "en": "CHAPTER IX. AMENDMENTS"
+  },
+  {
+    "ja": "第九十六条この憲法の改正は、各議院の総議員の三分の二以上の賛成で、国会が、これを発議し、国民に提案してその承認を経なければならない。この承認には、特別の国民投票又は国会の定める選挙の際行はれる投票において、その過半数の賛成を必要とする。",
+    "en": "Article 96.Amendments to this Constitution shall be initiated by the Diet, through a concurring vote of two-thirds or more of all the members of each House and shall thereupon be submitted to the people for ratification, which shall require the affirmative vote of a majority of all votes cast thereon, at a special referendum or at such election as the Diet shall specify."
+  },
+  {
+    "ja": "憲法改正について前項の承認を経たときは、天皇は、国民の名で、この憲法と一体を成すものとして、直ちにこれを公布する。",
+    "en": "Amendments when so ratified shall immediately be promulgated by the Emperor in the name of the people, as an integral part of this Constitution."
+  },
+  {
+    "ja": "第十章　最高法規",
+    "en": "CHAPTER X. SUPREME LAW"
+  },
+  {
+    "ja": "第九十七条この憲法が日本国民に保障する基本的人権は、人類の多年にわたる自由獲得の努力の成果であつて、これらの権利は、過去幾多の試錬に堪へ、現在及び将来の国民に対し、侵すことのできない永久の権利として信託されたものである。",
+    "en": "Article 97.The fundamental human rights by this Constitution guaranteed to the people of Japan are fruits of the age-old struggle of man to be free; they have survived the many exacting tests for durability and are conferred upon this and future generations in trust, to be held for all time inviolate."
+  },
+  {
+    "ja": "第九十八条この憲法は、国の最高法規であつて、その条規に反する法律、命令、詔勅及び国務に関するその他の行為の全部又は一部は、その効力を有しない。",
+    "en": "Article 98.This Constitution shall be the supreme law of the nation and no law, ordinance, imperial rescript or other act of government, or part thereof, contrary to the provisions hereof, shall have legal force or validity."
+  },
+  {
+    "ja": "日本国が締結した条約及び確立された国際法規は、これを誠実に遵守することを必要とする。",
+    "en": "The treaties concluded by Japan and established laws of nations shall be faithfully observed."
+  },
+  {
+    "ja": "第九十九条天皇又は摂政及び国務大臣、国会議員、裁判官その他の公務員は、この憲法を尊重し擁護する義務を負ふ。",
+    "en": "Article 99.The Emperor or the Regent as well as Ministers of State, members of the Diet, judges, and all other public officials have the obligation to respect and uphold this Constitution."
+  },
+  {
+    "ja": "第十一章　補則",
+    "en": "CHAPTER XI. SUPPLEMENTARY PROVISIONS"
+  },
+  {
+    "ja": "第百条この憲法は、公布の日から起算して六箇月を経過した日から、これを施行する。",
+    "en": "Article 100.This Constitution shall be enforced as from the day when the period of six months will have elapsed counting from the day of its promulgation."
+  },
+  {
+    "ja": "この憲法を施行するために必要な法律の制定、参議院議員の選挙及び国会召集の手続並びにこの憲法を施行するために必要な準備手続は、前項の期日よりも前に、これを行ふことができる。",
+    "en": "The enactment of laws necessary for the enforcement of this Constitution, the election of members of the House of Councillors and the procedure for the convocation of the Diet and other preparatory procedures necessary for the enforcement of this Constitution may be executed before the day prescribed in the preceding paragraph."
+  },
+  {
+    "ja": "第百一条この憲法施行の際、参議院がまだ成立してゐないときは、その成立するまでの間、衆議院は、国会としての権限を行ふ。",
+    "en": "Article 101.If the House of Councillors is not constituted before the effective date of this Constitution, the House of Representatives shall function as the Diet until such time as the House of Councillors shall be constituted."
+  },
+  {
+    "ja": "第百二条この憲法による第一期の参議院議員のうち、その半数の者の任期は、これを三年とする。その議員は、法律の定めるところにより、これを定める。",
+    "en": "Article 102.The term of office for half the members of the House of Councillors serving in the first term under this Constitution shall be three years.Members falling under this category shall be determined in accordance with law."
+  },
+  {
+    "ja": "第百三条この憲法施行の際現に在職する国務大臣、衆議院議員及び裁判官並びにその他の公務員で、その地位に相応する地位がこの憲法で認められてゐる者は、法律で特別の定をした場合を除いては、この憲法施行のため、当然にはその地位を失ふことはない。但し、この憲法によつて、後任者が選挙又は任命されたときは、当然その地位を失ふ。",
+    "en": "Article 103.The Ministers of State, members of the House of Representatives, and judges in office on the effective date of this Constitution, and all other public officials, who occupy positions corresponding to such positions as are recognized by this Constitution shall not forfeit their positions automatically on account of the enforcement of this Constitution unless otherwise specified by law.When, however, successors are elected or appointed under the provisions of this Constitution they shall forfeit their positions as a matter of course."
+  }
+]

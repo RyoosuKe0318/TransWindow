@@ -1,0 +1,722 @@
+[
+  {
+    "word": "article",
+    "freq": 704,
+    "examples": [
+      {
+        "en": "Article 1.The Emperor shall be the symbol of the State and of the unity of the people, deriving his position from the will of the people with whom resides sovereign power.",
+        "ja": "第一条天皇は、日本国の象徴であり日本国民統合の象徴であつて、この地位は、主権の存する日本国民の総意に基く。",
+        "sourceFile": "jp_const.json",
+        "index": 7
+      },
+      {
+        "en": "Article 2.The Imperial Throne shall be dynastic and succeeded to in accordance with the Imperial House Law passed by the Diet.",
+        "ja": "第二条皇位は、世襲のものであつて、国会の議決した皇室典範の定めるところにより、これを継承する。",
+        "sourceFile": "jp_const.json",
+        "index": 8
+      },
+      {
+        "en": "Article 3.The advice and approval of the Cabinet shall be required for all acts of the Emperor in matters of state, and the Cabinet shall be responsible therefor.",
+        "ja": "第三条天皇の国事に関するすべての行為には、内閣の助言と承認を必要とし、内閣が、その責任を負ふ。",
+        "sourceFile": "jp_const.json",
+        "index": 9
+      }
+    ]
+  },
+  {
+    "word": "person",
+    "freq": 412,
+    "examples": [
+      {
+        "en": "Article 16.Every person shall have the right of peaceful petition for the redress of damage, for the removal of public officials, for the enactment, repeal or amendment of laws, ordinances or regulations and for other matters; nor shall any person be in any way discriminated against for sponsoring such a petition.",
+        "ja": "第十六条何人も、損害の救済、公務員の罷免、法律、命令又は規則の制定、廃止又は改正その他の事項に関し、平穏に請願する権利を有し、何人も、かかる請願をしたためにいかなる差別待遇も受けない。",
+        "sourceFile": "jp_const.json",
+        "index": 42
+      },
+      {
+        "en": "Article 17.Every person may sue for redress as provided by law from the State or a public entity, in case he has suffered damage through illegal act of any public official.",
+        "ja": "第十七条何人も、公務員の不法行為により、損害を受けたときは、法律の定めるところにより、国又は公共団体に、その賠償を求めることができる。",
+        "sourceFile": "jp_const.json",
+        "index": 43
+      },
+      {
+        "en": "Article 18.No person shall be held in bondage of any kind.Involuntary servitude, except as punishment for crime, is prohibited.",
+        "ja": "第十八条何人も、いかなる奴隷的拘束も受けない。又、犯罪に因る処罰の場合を除いては、その意に反する苦役に服させられない。",
+        "sourceFile": "jp_const.json",
+        "index": 44
+      }
+    ]
+  },
+  {
+    "word": "imprisonment",
+    "freq": 259,
+    "examples": [
+      {
+        "en": "Article 9The principal punishments are categorized as the death penalty, imprisonment with work, imprisonment without work, fine, misdemeanor imprisonment without work and petty fine, with confiscation as a supplementary punishment.",
+        "ja": "第九条死刑、懲役、禁錮、罰金、拘留及び科料を主刑とし、没収を付加刑とする。",
+        "sourceFile": "penal_code.json",
+        "index": 62
+      },
+      {
+        "en": "Article 10(1)The order of gravity of the principal punishments shall be according to the order in which they are provided for in the preceding Article; provided, however, that imprisonment without work for life is greater than imprisonment with work for a definite term, and imprisonment without work for a definite term is greater than imprisonment with work for a definite term when the maximum term prescribed for the former exceeds the term by twice as much as that prescribed for the latter.",
+        "ja": "第十条主刑の軽重は、前条に規定する順序による。ただし、無期の禁錮と有期の懲役とでは禁錮を重い刑とし、有期の禁錮の長期が有期の懲役の長期の二倍を超えるときも、禁錮を重い刑とする。",
+        "sourceFile": "penal_code.json",
+        "index": 64
+      },
+      {
+        "en": "(Imprisonment with Work)",
+        "ja": "（懲役）",
+        "sourceFile": "penal_code.json",
+        "index": 70
+      }
+    ]
+  },
+  {
+    "word": "punished",
+    "freq": 197,
+    "examples": [
+      {
+        "en": "No person shall be convicted or punished in cases where the only proof against him is his own confession.",
+        "ja": "何人も、自己に不利益な唯一の証拠が本人の自白である場合には、有罪とされ、又は刑罰を科せられない。",
+        "sourceFile": "jp_const.json",
+        "index": 80
+      },
+      {
+        "en": "(2)When a person who commits a crime is not, at the time of its commission, aware of the facts constituting a greater crime, the person shall not be punished for the greater crime.",
+        "ja": "２重い罪に当たるべき行為をしたのに、行為の時にその重い罪に当たることとなる事実を知らなかった者は、その重い罪によって処断することはできない。",
+        "sourceFile": "penal_code.json",
+        "index": 182
+      },
+      {
+        "en": "Article 64A person who induces or aids a crime subject only to misdemeanor imprisonment without work or a petty fine shall not be punished for a crime except as otherwise specially provided.",
+        "ja": "第六十四条拘留又は科料のみに処すべき罪の教唆者及び従犯は、特別の規定がなければ、罰しない。",
+        "sourceFile": "penal_code.json",
+        "index": 248
+      }
+    ]
+  },
+  {
+    "word": "years",
+    "freq": 191,
+    "examples": [
+      {
+        "en": "Article 46.The term of office of members of the House of Councillors shall be six years, and election for half the members shall take place every three years.",
+        "ja": "第四十六条参議院議員の任期は、六年とし、三年ごとに議員の半数を改選する。",
+        "sourceFile": "jp_const.json",
+        "index": 90
+      },
+      {
+        "en": "The appointment of the judges of the Supreme Court shall be reviewed by the people at the first general election of members of the House of Representatives following their appointment, and shall be reviewed again at the first general election of members of the House of Representatives after a lapse of ten (10) years, and in the same manner thereafter.",
+        "ja": "最高裁判所の裁判官の任命は、その任命後初めて行はれる衆議院議員総選挙の際国民の審査に付し、その後十年を経過した後初めて行はれる衆議院議員総選挙の際更に審査に付し、その後も同様とする。",
+        "sourceFile": "jp_const.json",
+        "index": 152
+      },
+      {
+        "en": "Article 80.The judges of the inferior courts shall be appointed by the Cabinet from a list of persons nominated by the Supreme Court.All such judges shall hold office for a term of ten (10) years with privilege of reappointment, provided that they shall be retired upon the attainment of the age as fixed by law.",
+        "ja": "第八十条下級裁判所の裁判官は、最高裁判所の指名した者の名簿によつて、内閣でこれを任命する。その裁判官は、任期を十年とし、再任されることができる。但し、法律の定める年齢に達した時には退官する。",
+        "sourceFile": "jp_const.json",
+        "index": 157
+      }
+    ]
+  },
+  {
+    "word": "prescribed",
+    "freq": 181,
+    "examples": [
+      {
+        "en": "Matters pertaining to review shall be prescribed by law.",
+        "ja": "審査に関する事項は、法律でこれを定める。",
+        "sourceFile": "jp_const.json",
+        "index": 154
+      },
+      {
+        "en": "The enactment of laws necessary for the enforcement of this Constitution, the election of members of the House of Councillors and the procedure for the convocation of the Diet and other preparatory procedures necessary for the enforcement of this Constitution may be executed before the day prescribed in the preceding paragraph.",
+        "ja": "この憲法を施行するために必要な法律の制定、参議院議員の選挙及び国会召集の手続並びにこの憲法を施行するために必要な準備手続は、前項の期日よりも前に、これを行ふことができる。",
+        "sourceFile": "jp_const.json",
+        "index": 190
+      },
+      {
+        "en": "(ii)The crimes prescribed under Articles 77 through 79 (Insurrection; Preparations; Plots; Accessoryship to Insurrection);",
+        "ja": "二第七十七条から第七十九条まで（内乱、予備及び陰謀、内乱等幇助）の罪",
+        "sourceFile": "penal_code.json",
+        "index": 10
+      }
+    ]
+  },
+  {
+    "word": "crimes",
+    "freq": 158,
+    "examples": [
+      {
+        "en": "(Crimes Committed within Japan)",
+        "ja": "（国内犯）",
+        "sourceFile": "penal_code.json",
+        "index": 4
+      },
+      {
+        "en": "(Crimes Committed outside Japan)",
+        "ja": "（すべての者の国外犯）",
+        "sourceFile": "penal_code.json",
+        "index": 7
+      },
+      {
+        "en": "Article 2This Code shall apply to anyone who commits one of the following crimes outside the territory of Japan:",
+        "ja": "第二条この法律は、日本国外において次に掲げる罪を犯したすべての者に適用する。",
+        "sourceFile": "penal_code.json",
+        "index": 8
+      }
+    ]
+  },
+  {
+    "word": "security",
+    "freq": 152,
+    "examples": [
+      {
+        "en": "We, the Japanese people, desire peace for all time and are deeply conscious of the high ideals controlling human relationship, and we have determined to preserve our security and existence, trusting in the justice and faith of the peace-loving peoples of the world.We desire to occupy an honored place in an international society striving for the preservation of peace, and the banishment of tyranny and slavery, oppression and intolerance for all time from the earth.We recognize that all peoples of the world have the right to live in peace, free from fear and want.",
+        "ja": "日本国民は、恒久の平和を念願し、人間相互の関係を支配する崇高な理想を深く自覚するのであつて、平和を愛する諸国民の公正と信義に信頼して、われらの安全と生存を保持しようと決意した。われらは、平和を維持し、専制と隷従、圧迫と偏狭を地上から永遠に除去しようと努めてゐる国際社会において、名誉ある地位を占めたいと思ふ。われらは、全世界の国民が、ひとしく恐怖と欠乏から免かれ、平和のうちに生存する権利を有することを確認する。",
+        "sourceFile": "jp_const.json",
+        "index": 3
+      },
+      {
+        "en": "In all spheres of life, the State shall use its endeavors for the promotion and extension of social welfare and security, and of public health.",
+        "ja": "国は、すべての生活部面について、社会福祉、社会保障及び公衆衛生の向上及び増進に努めなければならない。",
+        "sourceFile": "jp_const.json",
+        "index": 57
+      },
+      {
+        "en": "(2)The same shall apply to a person who, for the purpose of uttering, makes a false entry in a security.",
+        "ja": "２行使の目的で、有価証券に虚偽の記入をした者も、前項と同様とする。",
+        "sourceFile": "penal_code.json",
+        "index": 507
+      }
+    ]
+  },
+  {
+    "word": "council",
+    "freq": 148,
+    "examples": [
+      {
+        "en": "2. The admission of any such state to membership in the United Nations will be effected by a decision of the General Assembly upon the recommendation of the Security Council.",
+        "ja": "2. 前記の国が国際連合加盟国となることの承認は、安全保障理事会の勧告に基いて、総会の決定によって行われる。",
+        "sourceFile": "un_charter.json",
+        "index": 35
+      },
+      {
+        "en": "A Member of the United Nations against which preventive or enforcement action has been taken by the Security Council may be suspended from the exercise of the rights and privileges of membership by the General Assembly upon the recommendation of the Security Council. The exercise of these rights and privileges may be restored by the Security Council.",
+        "ja": "安全保障理事会の防止行動又は強制行動の対象となった国際連合加盟国に対しては、総会が、安全保障理事会の勧告に基づいて、加盟国としての権利及び特権の行使を停止することができる。これらの権利及び特権の行使は、安全保障理事会が回復することができる。",
+        "sourceFile": "un_charter.json",
+        "index": 37
+      },
+      {
+        "en": "A Member of the United Nations which has persistently violated the Principles contained in the present Charter may be expelled from the Organization by the General Assembly upon the recommendation of the Security Council.",
+        "ja": "この憲章に掲げる原則に執ように違反した国際連合加盟国は、総会が、安全保障理事会の勧告に基いて、この機構から除名することができる。",
+        "sourceFile": "un_charter.json",
+        "index": 39
+      }
+    ]
+  },
+  {
+    "word": "without",
+    "freq": 137,
+    "examples": [
+      {
+        "en": "Article 8.No property can be given to, or received by, the Imperial House, nor can any gifts be made therefrom, without the authorization of the Diet.",
+        "ja": "第八条皇室に財産を譲り渡し、又は皇室が、財産を譲り受け、若しくは賜与することは、国会の議決に基かなければならない。",
+        "sourceFile": "jp_const.json",
+        "index": 26
+      },
+      {
+        "en": "Article 34.No person shall be arrested or detained without being at once informed of the charges against him or without the immediate privilege of counsel; nor shall he be detained without adequate cause; and upon demand of any person such cause must be immediately shown in open court in his presence and the presence of his counsel.",
+        "ja": "第三十四条何人も、理由を直ちに告げられ、且つ、直ちに弁護人に依頼する権利を与へられなければ、抑留又は拘禁されない。又、何人も、正当な理由がなければ、拘禁されず、要求があれば、その理由は、直ちに本人及びその弁護人の出席する公開の法廷で示されなければならない。",
+        "sourceFile": "jp_const.json",
+        "index": 71
+      },
+      {
+        "en": "Article 75.The Ministers of State, during their tenure of office, shall not be subject to legal action without the consent of the Prime Minister.However, the right to take that action is not impaired hereby.",
+        "ja": "第七十五条国務大臣は、その在任中、内閣総理大臣の同意がなければ、訴追されない。但し、これがため、訴追の権利は、害されない。",
+        "sourceFile": "jp_const.json",
+        "index": 142
+      }
+    ]
+  },
+  {
+    "word": "another",
+    "freq": 134,
+    "examples": [
+      {
+        "en": "(iii)When it is discovered that, before a person was granted a suspended execution of sentence for a crime, the person had been sentenced to imprisonment without work or a greater punishment for another crime before such grant.",
+        "ja": "三猶予の言渡し前に他の罪について禁錮以上の刑に処せられたことが発覚したとき。",
+        "sourceFile": "penal_code.json",
+        "index": 128
+      },
+      {
+        "en": "(iii)When it is discovered that, before a person was granted suspension for a crime, the person had been sentenced to imprisonment without work or a greater punishment for another crime and granted suspension of execution of such sentence.",
+        "ja": "三猶予の言渡し前に他の罪について禁錮以上の刑に処せられ、その執行を猶予されたことが発覚したとき。",
+        "sourceFile": "penal_code.json",
+        "index": 133
+      },
+      {
+        "en": "Article 26-3When a suspension of execution of sentence to imprisonment without work or a greater punishment is revoked pursuant to the provision of the preceding two Articles, the concurrent suspension of execution of another sentence to imprisonment without work or a greater punishment shall also be revoked.",
+        "ja": "第二十六条の三前二条の規定により禁錮以上の刑の執行猶予の言渡しを取り消したときは、執行猶予中の他の禁錮以上の刑についても、その猶予の言渡しを取り消さなければならない。",
+        "sourceFile": "penal_code.json",
+        "index": 135
+      }
+    ]
+  },
+  {
+    "word": "members",
+    "freq": 132,
+    "examples": [
+      {
+        "en": "Proclamation of general election of members of the Diet.",
+        "ja": "四国会議員の総選挙の施行を公示すること。",
+        "sourceFile": "jp_const.json",
+        "index": 19
+      },
+      {
+        "en": "Article 43.Both Houses shall consist of elected members, representative of all the people.",
+        "ja": "第四十三条両議院は、全国民を代表する選挙された議員でこれを組織する。",
+        "sourceFile": "jp_const.json",
+        "index": 86
+      },
+      {
+        "en": "The number of the members of each House shall be fixed by law.",
+        "ja": "両議院の議員の定数は、法律でこれを定める。",
+        "sourceFile": "jp_const.json",
+        "index": 87
+      }
+    ]
+  },
+  {
+    "word": "other",
+    "freq": 125,
+    "examples": [
+      {
+        "en": "We believe that no nation is responsible to itself alone, but that laws of political morality are universal; and that obedience to such laws is incumbent upon all nations who would sustain their own sovereignty and justify their sovereign relationship with other nations.",
+        "ja": "われらは、いづれの国家も、自国のことのみに専念して他国を無視してはならないのであつて、政治道徳の法則は、普遍的なものであり、この法則に従ふことは、自国の主権を維持し、他国と対等関係に立たうとする各国の責務であると信ずる。",
+        "sourceFile": "jp_const.json",
+        "index": 4
+      },
+      {
+        "en": "Attestation of the appointment and dismissal of Ministers of State and other officials as provided for by law, and of full powers and credentials of Ambassadors and Ministers.",
+        "ja": "五国務大臣及び法律の定めるその他の官吏の任免並びに全権委任状及び大使及び公使の信任状を認証すること。",
+        "sourceFile": "jp_const.json",
+        "index": 20
+      },
+      {
+        "en": "Attestation of instruments of ratification and other diplomatic documents as provided for by law.",
+        "ja": "八批准書及び法律の定めるその他の外交文書を認証すること。",
+        "sourceFile": "jp_const.json",
+        "index": 23
+      }
+    ]
+  },
+  {
+    "word": "paragraph",
+    "freq": 120,
+    "examples": [
+      {
+        "en": "Article 5.When, in accordance with the Imperial House Law, a Regency is established, the Regent shall perform his acts in matters of state in the Emperor's name.In this case, paragraph one of the preceding article will be applicable.",
+        "ja": "第五条皇室典範の定めるところにより摂政を置くときは、摂政は、天皇の名でその国事に関する行為を行ふ。この場合には、前条第一項の規定を準用する。",
+        "sourceFile": "jp_const.json",
+        "index": 12
+      },
+      {
+        "en": "In order to accomplish the aim of the preceding paragraph, land, sea, and air forces, as well as other war potential, will never be maintained.The right of belligerency of the state will not be recognized.",
+        "ja": "前項の目的を達するため、陸海空軍その他の戦力は、これを保持しない。国の交戦権は、これを認めない。",
+        "sourceFile": "jp_const.json",
+        "index": 29
+      },
+      {
+        "en": "Measures taken at such session as mentioned in the proviso of the preceding paragraph shall be provisional and shall become null and void unless agreed to by the House of Representatives within a period of ten (10) days after the opening of the next session of the Diet.",
+        "ja": "前項但書の緊急集会において採られた措置は、臨時のものであつて、次の国会開会の後十日以内に、衆議院の同意がない場合には、その効力を失ふ。",
+        "sourceFile": "jp_const.json",
+        "index": 100
+      }
+    ]
+  },
+  {
+    "word": "nations",
+    "freq": 117,
+    "examples": [
+      {
+        "en": "We, the Japanese people, acting through our duly elected representatives in the National Diet, determined that we shall secure for ourselves and our posterity the fruits of peaceful cooperation with all nations and the blessings of liberty throughout this land, and resolved that never again shall we be visited with the horrors of war through the action of government, do proclaim that sovereign power resides with the people and do firmly establish this Constitution.Government is a sacred trust of the people, the authority for which is derived from the people, the powers of which are exercised by the representatives of the people, and the benefits of which are enjoyed by the people.This is a universal principle of mankind upon which this Constitution is founded.We reject and revoke all constitutions, laws, ordinances, and rescripts in conflict herewith.",
+        "ja": "日本国民は、正当に選挙された国会における代表者を通じて行動し、われらとわれらの子孫のために、諸国民との協和による成果と、わが国全土にわたつて自由のもたらす恵沢を確保し、政府の行為によつて再び戦争の惨禍が起ることのないやうにすることを決意し、ここに主権が国民に存することを宣言し、この憲法を確定する。そもそも国政は、国民の厳粛な信託によるものであつて、その権威は国民に由来し、その権力は国民の代表者がこれを行使し、その福利は国民がこれを享受する。これは人類普遍の原理であり、この憲法は、かかる原理に基くものである。われらは、これに反する一切の憲法、法令及び詔勅を排除する。",
+        "sourceFile": "jp_const.json",
+        "index": 2
+      },
+      {
+        "en": "We believe that no nation is responsible to itself alone, but that laws of political morality are universal; and that obedience to such laws is incumbent upon all nations who would sustain their own sovereignty and justify their sovereign relationship with other nations.",
+        "ja": "われらは、いづれの国家も、自国のことのみに専念して他国を無視してはならないのであつて、政治道徳の法則は、普遍的なものであり、この法則に従ふことは、自国の主権を維持し、他国と対等関係に立たうとする各国の責務であると信ずる。",
+        "sourceFile": "jp_const.json",
+        "index": 4
+      },
+      {
+        "en": "The treaties concluded by Japan and established laws of nations shall be faithfully observed.",
+        "ja": "日本国が締結した条約及び確立された国際法規は、これを誠実に遵守することを必要とする。",
+        "sourceFile": "jp_const.json",
+        "index": 186
+      }
+    ]
+  },
+  {
+    "word": "public",
+    "freq": 117,
+    "examples": [
+      {
+        "en": "Article 12.The freedoms and rights guaranteed to the people by this Constitution shall be maintained by the constant endeavor of the people, who shall refrain from any abuse of these freedoms and rights and shall always be responsible for utilizing them for the public welfare.",
+        "ja": "第十二条この憲法が国民に保障する自由及び権利は、国民の不断の努力によつて、これを保持しなければならない。又、国民は、これを濫用してはならないのであつて、常に公共の福祉のためにこれを利用する責任を負ふ。",
+        "sourceFile": "jp_const.json",
+        "index": 33
+      },
+      {
+        "en": "Article 13.All of the people shall be respected as individuals.Their right to life, liberty, and the pursuit of happiness shall, to the extent that it does not interfere with the public welfare, be the supreme consideration in legislation and in other governmental affairs.",
+        "ja": "第十三条すべて国民は、個人として尊重される。生命、自由及び幸福追求に対する国民の権利については、公共の福祉に反しない限り、立法その他の国政の上で、最大の尊重を必要とする。",
+        "sourceFile": "jp_const.json",
+        "index": 34
+      },
+      {
+        "en": "Article 15.The people have the inalienable right to choose their public officials and to dismiss them.",
+        "ja": "第十五条公務員を選定し、及びこれを罷免することは、国民固有の権利である。",
+        "sourceFile": "jp_const.json",
+        "index": 38
+      }
+    ]
+  },
+  {
+    "word": "crime",
+    "freq": 112,
+    "examples": [
+      {
+        "en": "Article 18.No person shall be held in bondage of any kind.Involuntary servitude, except as punishment for crime, is prohibited.",
+        "ja": "第十八条何人も、いかなる奴隷的拘束も受けない。又、犯罪に因る処罰の場合を除いては、その意に反する苦役に服させられない。",
+        "sourceFile": "jp_const.json",
+        "index": 44
+      },
+      {
+        "en": "Article 1(1)This Code shall apply to anyone who commits a crime within the territory of Japan.",
+        "ja": "第一条この法律は、日本国内において罪を犯したすべての者に適用する。",
+        "sourceFile": "penal_code.json",
+        "index": 5
+      },
+      {
+        "en": "(2)The same shall apply to anyone who commits a crime on board a Japanese vessel or aircraft outside the territory of Japan.",
+        "ja": "２日本国外にある日本船舶又は日本航空機内において罪を犯した者についても、前項と同様とする。",
+        "sourceFile": "penal_code.json",
+        "index": 6
+      }
+    ]
+  },
+  {
+    "word": "united",
+    "freq": 112,
+    "examples": [
+      {
+        "en": "Whereas the peoples of the United Nations have in the Charter reaffirmed their faith in fundamental human rights, in the dignity and worth of the human person and in the equal rights of men and women and have determined to promote social progress and better standards of life in larger freedom,",
+        "ja": "国際連合の諸国民は、国際連合憲章において、基本的人権、人間の尊厳及び価値並びに男女の同権についての信念を再確認し、かつ、一層大きな自由のうちで社会的進歩と生活水準の向上とを促進することを決意したので、",
+        "sourceFile": "udhr.json",
+        "index": 6
+      },
+      {
+        "en": "Whereas Member States have pledged themselves to achieve, in cooperation with the United Nations, the promotion of universal respect for and observance of human rights and fundamental freedoms,",
+        "ja": "加盟国は、国際連合と協力して、人権及び基本的自由の普遍的な尊重及び遵守の促進を達成することを誓約したので、",
+        "sourceFile": "udhr.json",
+        "index": 7
+      },
+      {
+        "en": "2. This right may not be invoked in the case of prosecutions genuinely arising from non-political crimes or from acts contrary to the purposes and principles of the United Nations.",
+        "ja": "2. この権利は、もっぱら非政治犯罪又は国際連合の目的及び原則に反する行為を原因とする訴追の場合には、援用することはできない。",
+        "sourceFile": "udhr.json",
+        "index": 42
+      }
+    ]
+  },
+  {
+    "word": "preceding",
+    "freq": 106,
+    "examples": [
+      {
+        "en": "Article 5.When, in accordance with the Imperial House Law, a Regency is established, the Regent shall perform his acts in matters of state in the Emperor's name.In this case, paragraph one of the preceding article will be applicable.",
+        "ja": "第五条皇室典範の定めるところにより摂政を置くときは、摂政は、天皇の名でその国事に関する行為を行ふ。この場合には、前条第一項の規定を準用する。",
+        "sourceFile": "jp_const.json",
+        "index": 12
+      },
+      {
+        "en": "In order to accomplish the aim of the preceding paragraph, land, sea, and air forces, as well as other war potential, will never be maintained.The right of belligerency of the state will not be recognized.",
+        "ja": "前項の目的を達するため、陸海空軍その他の戦力は、これを保持しない。国の交戦権は、これを認めない。",
+        "sourceFile": "jp_const.json",
+        "index": 29
+      },
+      {
+        "en": "Measures taken at such session as mentioned in the proviso of the preceding paragraph shall be provisional and shall become null and void unless agreed to by the House of Representatives within a period of ten (10) days after the opening of the next session of the Diet.",
+        "ja": "前項但書の緊急集会において採られた措置は、臨時のものであつて、次の国会開会の後十日以内に、衆議院の同意がない場合には、その効力を失ふ。",
+        "sourceFile": "jp_const.json",
+        "index": 100
+      }
+    ]
+  },
+  {
+    "word": "chapter",
+    "freq": 100,
+    "examples": [
+      {
+        "en": "CHAPTER I. THE EMPEROR",
+        "ja": "第一章　天皇",
+        "sourceFile": "jp_const.json",
+        "index": 6
+      },
+      {
+        "en": "CHAPTER II. RENUNCIATION OF WAR",
+        "ja": "第二章　戦争の放棄",
+        "sourceFile": "jp_const.json",
+        "index": 27
+      },
+      {
+        "en": "CHAPTER III. RIGHTS AND DUTIES OF THE PEOPLE",
+        "ja": "第三章　国民の権利及び義務",
+        "sourceFile": "jp_const.json",
+        "index": 30
+      }
+    ]
+  },
+  {
+    "word": "punishment",
+    "freq": 100,
+    "examples": [
+      {
+        "en": "Attestation of general and special amnesty, commutation of punishment, reprieve, and restoration of rights.",
+        "ja": "六大赦、特赦、減刑、刑の執行の免除及び復権を認証すること。",
+        "sourceFile": "jp_const.json",
+        "index": 21
+      },
+      {
+        "en": "Article 18.No person shall be held in bondage of any kind.Involuntary servitude, except as punishment for crime, is prohibited.",
+        "ja": "第十八条何人も、いかなる奴隷的拘束も受けない。又、犯罪に因る処罰の場合を除いては、その意に反する苦役に服させられない。",
+        "sourceFile": "jp_const.json",
+        "index": 44
+      },
+      {
+        "en": "Decide on general amnesty, special amnesty, commutation of punishment, reprieve, and restoration of rights.",
+        "ja": "七大赦、特赦、減刑、刑の執行の免除及び復権を決定すること。",
+        "sourceFile": "jp_const.json",
+        "index": 140
+      }
+    ]
+  },
+  {
+    "word": "general",
+    "freq": 95,
+    "examples": [
+      {
+        "en": "Proclamation of general election of members of the Diet.",
+        "ja": "四国会議員の総選挙の施行を公示すること。",
+        "sourceFile": "jp_const.json",
+        "index": 19
+      },
+      {
+        "en": "Attestation of general and special amnesty, commutation of punishment, reprieve, and restoration of rights.",
+        "ja": "六大赦、特赦、減刑、刑の執行の免除及び復権を認証すること。",
+        "sourceFile": "jp_const.json",
+        "index": 21
+      },
+      {
+        "en": "Article 54.When the House of Representatives is dissolved, there must be a general election of members of the House of Representatives within forty (40) days from the date of dissolution, and the Diet must be convoked within thirty (30) days from the date of the election.",
+        "ja": "第五十四条衆議院が解散されたときは、解散の日から四十日以内に、衆議院議員の総選挙を行ひ、その選挙の日から三十日以内に、国会を召集しなければならない。",
+        "sourceFile": "jp_const.json",
+        "index": 98
+      }
+    ]
+  },
+  {
+    "word": "death",
+    "freq": 83,
+    "examples": [
+      {
+        "en": "(v)The crimes prescribed under Articles 176 through 179 (Forcible Indecency; Rape; Quasi Forcible Indecency and Quasi Rape; Gang Rape; Attempts), 181 (Forcible Indecency Causing Death or Injury) and 184 (Bigamy);",
+        "ja": "五第百七十六条から第百七十九条まで（強制わいせつ、強姦、準強制わいせつ及び準強姦、集団強姦等、未遂罪）、第百八十一条（強制わいせつ等致死傷）及び第百八十四条（重婚）の罪",
+        "sourceFile": "penal_code.json",
+        "index": 23
+      },
+      {
+        "en": "(vii)The crimes prescribed under Articles 204 (Injury) and 205 (Injury Causing Death);",
+        "ja": "七第二百四条（傷害）及び第二百五条（傷害致死）の罪",
+        "sourceFile": "penal_code.json",
+        "index": 25
+      },
+      {
+        "en": "(viii)The crimes prescribed under Articles 214 through 216 (Abortion through Professional Conduct; Causing Death or Injury thereof; Abortion without Consent; Abortion without Consent Causing Death or Injury);",
+        "ja": "八第二百十四条から第二百十六条まで（業務上堕胎及び同致死傷、不同意堕胎、不同意堕胎致死傷）の罪",
+        "sourceFile": "penal_code.json",
+        "index": 26
+      }
+    ]
+  },
+  {
+    "word": "international",
+    "freq": 82,
+    "examples": [
+      {
+        "en": "We, the Japanese people, desire peace for all time and are deeply conscious of the high ideals controlling human relationship, and we have determined to preserve our security and existence, trusting in the justice and faith of the peace-loving peoples of the world.We desire to occupy an honored place in an international society striving for the preservation of peace, and the banishment of tyranny and slavery, oppression and intolerance for all time from the earth.We recognize that all peoples of the world have the right to live in peace, free from fear and want.",
+        "ja": "日本国民は、恒久の平和を念願し、人間相互の関係を支配する崇高な理想を深く自覚するのであつて、平和を愛する諸国民の公正と信義に信頼して、われらの安全と生存を保持しようと決意した。われらは、平和を維持し、専制と隷従、圧迫と偏狭を地上から永遠に除去しようと努めてゐる国際社会において、名誉ある地位を占めたいと思ふ。われらは、全世界の国民が、ひとしく恐怖と欠乏から免かれ、平和のうちに生存する権利を有することを確認する。",
+        "sourceFile": "jp_const.json",
+        "index": 3
+      },
+      {
+        "en": "Article 9.Aspiring sincerely to an international peace based on justice and order, the Japanese people forever renounce war as a sovereign right of the nation and the threat or use of force as means of settling international disputes.",
+        "ja": "第九条日本国民は、正義と秩序を基調とする国際平和を誠実に希求し、国権の発動たる戦争と、武力による威嚇又は武力の行使は、国際紛争を解決する手段としては、永久にこれを放棄する。",
+        "sourceFile": "jp_const.json",
+        "index": 28
+      },
+      {
+        "en": "Proclaims this Universal Declaration of Human Rights as a common standard of achievement for all peoples and all nations, to the end that every individual and every organ of society, keeping this Declaration constantly in mind, shall strive by teaching and education to promote respect for these rights and freedoms and by progressive measures, national and international, to secure their universal and effective recognition and observance, both among the peoples of Member States themselves and among the peoples of territories under their jurisdiction.",
+        "ja": "社会の各個人及び各機関が、この世界人権宣言を常に念頭に置きながら、加盟国自身の人民の間にも、また、加盟国の管轄下にある地域の人民の間にも、これらの権利と自由との尊重を指導及び教育によって促進すること並びにそれらの普遍的かつ効果的な承認と遵守とを国内的及び国際的な漸進的措置によって確保することに努力するように、すべての人民とすべての国とが達成すべき共通の基準として、この世界人権宣言を公布する。",
+        "sourceFile": "udhr.json",
+        "index": 10
+      }
+    ]
+  },
+  {
+    "word": "provided",
+    "freq": 82,
+    "examples": [
+      {
+        "en": "Article 4.The Emperor shall perform only such acts in matters of state as are provided for in this Constitution and he shall not have powers related to government.",
+        "ja": "第四条天皇は、この憲法の定める国事に関する行為のみを行ひ、国政に関する権能を有しない。",
+        "sourceFile": "jp_const.json",
+        "index": 10
+      },
+      {
+        "en": "The Emperor may delegate the performance of his acts in matters of state as may be provided by law.",
+        "ja": "天皇は、法律の定めるところにより、その国事に関する行為を委任することができる。",
+        "sourceFile": "jp_const.json",
+        "index": 11
+      },
+      {
+        "en": "Attestation of the appointment and dismissal of Ministers of State and other officials as provided for by law, and of full powers and credentials of Ambassadors and Ministers.",
+        "ja": "五国務大臣及び法律の定めるその他の官吏の任免並びに全権委任状及び大使及び公使の信任状を認証すること。",
+        "sourceFile": "jp_const.json",
+        "index": 20
+      }
+    ]
+  },
+  {
+    "word": "assembly",
+    "freq": 77,
+    "examples": [
+      {
+        "en": "Article 21.Freedom of assembly and association as well as speech, press and all other forms of expression are guaranteed.",
+        "ja": "第二十一条集会、結社及び言論、出版その他一切の表現の自由は、これを保障する。",
+        "sourceFile": "jp_const.json",
+        "index": 49
+      },
+      {
+        "en": "Article 7(1)The term \"public officer\" as used in this Code shall mean a national or local government official, a member of an assembly or committee, or other employees engaged in the performance of public duties in accordance with laws and regulations.",
+        "ja": "第七条この法律において「公務員」とは、国又は地方公共団体の職員その他法令により公務に従事する議員、委員その他の職員をいう。",
+        "sourceFile": "penal_code.json",
+        "index": 55
+      },
+      {
+        "en": "(Unlawful Assembly with Weapons)",
+        "ja": "（凶器準備集合及び結集）",
+        "sourceFile": "penal_code.json",
+        "index": 650
+      }
+    ]
+  },
+  {
+    "word": "apply",
+    "freq": 74,
+    "examples": [
+      {
+        "en": "Article 1(1)This Code shall apply to anyone who commits a crime within the territory of Japan.",
+        "ja": "第一条この法律は、日本国内において罪を犯したすべての者に適用する。",
+        "sourceFile": "penal_code.json",
+        "index": 5
+      },
+      {
+        "en": "(2)The same shall apply to anyone who commits a crime on board a Japanese vessel or aircraft outside the territory of Japan.",
+        "ja": "２日本国外にある日本船舶又は日本航空機内において罪を犯した者についても、前項と同様とする。",
+        "sourceFile": "penal_code.json",
+        "index": 6
+      },
+      {
+        "en": "Article 2This Code shall apply to anyone who commits one of the following crimes outside the territory of Japan:",
+        "ja": "第二条この法律は、日本国外において次に掲げる罪を犯したすべての者に適用する。",
+        "sourceFile": "penal_code.json",
+        "index": 8
+      }
+    ]
+  },
+  {
+    "word": "through",
+    "freq": 73,
+    "examples": [
+      {
+        "en": "We, the Japanese people, acting through our duly elected representatives in the National Diet, determined that we shall secure for ourselves and our posterity the fruits of peaceful cooperation with all nations and the blessings of liberty throughout this land, and resolved that never again shall we be visited with the horrors of war through the action of government, do proclaim that sovereign power resides with the people and do firmly establish this Constitution.Government is a sacred trust of the people, the authority for which is derived from the people, the powers of which are exercised by the representatives of the people, and the benefits of which are enjoyed by the people.This is a universal principle of mankind upon which this Constitution is founded.We reject and revoke all constitutions, laws, ordinances, and rescripts in conflict herewith.",
+        "ja": "日本国民は、正当に選挙された国会における代表者を通じて行動し、われらとわれらの子孫のために、諸国民との協和による成果と、わが国全土にわたつて自由のもたらす恵沢を確保し、政府の行為によつて再び戦争の惨禍が起ることのないやうにすることを決意し、ここに主権が国民に存することを宣言し、この憲法を確定する。そもそも国政は、国民の厳粛な信託によるものであつて、その権威は国民に由来し、その権力は国民の代表者がこれを行使し、その福利は国民がこれを享受する。これは人類普遍の原理であり、この憲法は、かかる原理に基くものである。われらは、これに反する一切の憲法、法令及び詔勅を排除する。",
+        "sourceFile": "jp_const.json",
+        "index": 2
+      },
+      {
+        "en": "Article 17.Every person may sue for redress as provided by law from the State or a public entity, in case he has suffered damage through illegal act of any public official.",
+        "ja": "第十七条何人も、公務員の不法行為により、損害を受けたときは、法律の定めるところにより、国又は公共団体に、その賠償を求めることができる。",
+        "sourceFile": "jp_const.json",
+        "index": 43
+      },
+      {
+        "en": "Article 24.Marriage shall be based only on the mutual consent of both sexes and it shall be maintained through mutual cooperation with the equal rights of husband and wife as a basis.",
+        "ja": "第二十四条婚姻は、両性の合意のみに基いて成立し、夫婦が同等の権利を有することを基本として、相互の協力により、維持されなければならない。",
+        "sourceFile": "jp_const.json",
+        "index": 54
+      }
+    ]
+  },
+  {
+    "word": "state",
+    "freq": 71,
+    "examples": [
+      {
+        "en": "Article 1.The Emperor shall be the symbol of the State and of the unity of the people, deriving his position from the will of the people with whom resides sovereign power.",
+        "ja": "第一条天皇は、日本国の象徴であり日本国民統合の象徴であつて、この地位は、主権の存する日本国民の総意に基く。",
+        "sourceFile": "jp_const.json",
+        "index": 7
+      },
+      {
+        "en": "Article 3.The advice and approval of the Cabinet shall be required for all acts of the Emperor in matters of state, and the Cabinet shall be responsible therefor.",
+        "ja": "第三条天皇の国事に関するすべての行為には、内閣の助言と承認を必要とし、内閣が、その責任を負ふ。",
+        "sourceFile": "jp_const.json",
+        "index": 9
+      },
+      {
+        "en": "Article 4.The Emperor shall perform only such acts in matters of state as are provided for in this Constitution and he shall not have powers related to government.",
+        "ja": "第四条天皇は、この憲法の定める国事に関する行為のみを行ひ、国政に関する権能を有しない。",
+        "sourceFile": "jp_const.json",
+        "index": 10
+      }
+    ]
+  },
+  {
+    "word": "injury",
+    "freq": 69,
+    "examples": [
+      {
+        "en": "(v)The crimes prescribed under Articles 176 through 179 (Forcible Indecency; Rape; Quasi Forcible Indecency and Quasi Rape; Gang Rape; Attempts), 181 (Forcible Indecency Causing Death or Injury) and 184 (Bigamy);",
+        "ja": "五第百七十六条から第百七十九条まで（強制わいせつ、強姦、準強制わいせつ及び準強姦、集団強姦等、未遂罪）、第百八十一条（強制わいせつ等致死傷）及び第百八十四条（重婚）の罪",
+        "sourceFile": "penal_code.json",
+        "index": 23
+      },
+      {
+        "en": "(vii)The crimes prescribed under Articles 204 (Injury) and 205 (Injury Causing Death);",
+        "ja": "七第二百四条（傷害）及び第二百五条（傷害致死）の罪",
+        "sourceFile": "penal_code.json",
+        "index": 25
+      },
+      {
+        "en": "(viii)The crimes prescribed under Articles 214 through 216 (Abortion through Professional Conduct; Causing Death or Injury thereof; Abortion without Consent; Abortion without Consent Causing Death or Injury);",
+        "ja": "八第二百十四条から第二百十六条まで（業務上堕胎及び同致死傷、不同意堕胎、不同意堕胎致死傷）の罪",
+        "sourceFile": "penal_code.json",
+        "index": 26
+      }
+    ]
+  }
+]
